@@ -1,0 +1,3000 @@
+的	1	possessive, adjectival suffix
+一	2	one; a, an; alone
+是	3	indeed, yes, right; to be; demonstrative pronoun, this, that
+不	4	no, not; un-; negative prefix
+了	5	to finish; particle of completed action
+在	6	be at, in, on; consist in, rest
+人	7	man; people; mankind; someone else
+有	8	have, own, possess; exist
+我	9	our, us, i, me, my, we
+他	10	other, another; he, she, it
+这	11	this, the, here
+个	12	numerary adjunct, piece; single
+们	13	adjunct pronoun indicate plural
+中	14	central; center, middle; in the midst of; hit (target); attain
+来	15	come, coming; return, returning
+上	16	top; superior, highest; go up, send up
+大	17	big, great, vast, large, high
+为	18	do, handle, govern, act; be
+和	19	harmony, peace; peaceful, calm
+国	20	nation, country, nation-state
+地	21	earth; soil, ground; region
+到	22	go to, arrive, been to
+以	23	by means of; thereby, therefore; consider as; in order to
+说	24	speak, say, talk; scold, upbraid
+时	25	time, season; era, age, period
+要	26	necessary, essential; necessity
+就	27	just, simply; to come, go to; to approach, near
+出	28	go out, send out; stand; produce
+会	29	assemble, meet together; meeting
+可	30	may, can, -able; possibly
+也	31	also; classical final particle of strong affirmation or identity
+你	32	you, second person pronoun
+对	33	correct, right; facing, opposed
+生	34	life, living, lifetime; birth
+能	35	to be able; can, permitted to; ability
+而	36	and; and then; and yet; but
+子	37	offspring, child; fruit, seed of; 1st terrestrial branch
+那	38	that, that one, those
+得	39	obtain, get, gain, acquire
+于	40	in, on, at; go to; surname
+着	41	make move, take action
+下	42	under, underneath, below; down; inferior; bring down
+自	43	self, private, personal; from
+之	44	marks preceding phrase as modifier of following phrase; it, him her, them; go to
+年	45	year; new-years; person's age
+过	46	pass, pass through, go across
+发	47	issue, dispatch, send out; hair
+后	48	queen, empress, sovereign; (simp. for 後) behind, rear, after
+作	49	make; work; compose, write; act, perform
+里	50	unit of distance; village; lane
+用	51	use, employ, apply, operate; use
+道	52	path, road, street; method, way
+行	53	go; walk; move, travel; circulate
+所	54	place, location; numerary adjunct
+然	55	yes, certainly; pledge, promise
+家	56	house, home, residence; family
+种	57	seed; race, breed; to plant
+事	58	affair, matter, business; to serve; accident, incident
+成	59	completed, finished, fixed
+方	60	a square, rectangle; a region; local
+多	61	much, many; more than, over
+经	62	classic works; pass through
+么	63	interrogative particle; repetition of a tune small; tender
+去	64	go away, leave, depart
+法	65	law, rule, regulation, statute; France, French
+学	66	learning, knowledge; school
+如	67	if, supposing; as if; like, as
+都	68	metropolis, capital; all, the whole; elegant, refined
+同	69	same, similar; together with
+现	70	appear, manifest, become visible
+当	71	bear, accept, undertake; just
+没	72	not, have not, none; drown, sink
+动	73	move, happen; movement, action
+面	74	face; surface; plane; side, dimension
+起	75	rise, stand up; go up; begin
+看	76	look, see; examine, scrutinize
+定	77	decide, settle, fix
+天	78	sky, heaven; god, celestial
+分	79	divide; small unit of time etc.
+还	80	still, yet, also, besides
+进	81	advance, make progress, enter
+好	82	good, excellent, fine; well
+小	83	small, tiny, insignificant
+部	84	part, division, section
+其	85	his, her, its, their; that
+些	86	little, few; rather, somewhat
+主	87	master, chief owner; host; lord
+样	88	shape, form, pattern, style
+理	89	reason, logic; manage
+心	90	heart; mind, intelligence; soul
+她	91	she, her
+本	92	root, origin, source; basis
+前	93	in front, forward; preceding
+开	94	open; initiate, begin, start
+但	95	only; but, however, yet, still
+因	96	cause, reason; by; because (of)
+只	97	only, just, simply
+从	98	from, by, since, whence, through
+想	99	think, speculate, plan, consider
+实	100	real, true; honest, sincere
+日	101	sun; day; daytime
+军	102	army, military; soldiers, troops
+者	103	that which; he who; those who
+意	104	thought, idea, opinion; think
+无	105	negative, no, not; KangXi radical 71
+力	106	power, capability, influence
+它	107	it; other
+与	108	and; with; to; for; give, grant
+长	109	long; length; excel in; leader
+把	110	hold, take; guard; regard as
+机	111	desk; machine; moment
+十	112	ten, tenth; complete; perfect
+民	113	people, subjects, citizens
+第	114	sequence, number; grade, degree
+公	115	fair, equitable; public; duke
+此	116	this, these; in this case, then
+已	117	already; finished; stop
+工	118	labor, work; worker, laborer
+使	119	cause, send on a mission, order; envoy, messenger, ambassador
+情	120	feeling, sentiment, emotion
+明	121	bright, light, brilliant; clear
+性	122	nature, character, sex
+知	123	know, perceive, comprehend
+全	124	maintain, keep whole or intact
+三	125	three
+又	126	and, also, again, in addition
+关	127	frontier pass; close; relation
+点	128	dot, speck, spot; point, degree
+正	129	right, proper, correct
+业	130	profession, business; GB radical 111
+外	131	out, outside, external; foreign
+将	132	will, going to, future; general
+两	133	two, both, pair, couple; ounce
+高	134	high, tall; lofty, elevated
+间	135	midpoint, space; place, locality
+由	136	cause, reason; from
+问	137	ask about, inquire after
+很	138	very, quite, much
+最	139	most, extremely, exceedingly
+重	140	heavy, weighty; double
+并	141	combine, annex; also, what's more
+物	142	thing, substance, creature
+手	143	hand
+应	144	should, ought to, must
+战	145	war, fighting, battle
+向	146	toward, direction, trend
+头	147	head; top; chief, first; boss
+文	148	literature, culture, writing
+体	149	body; group, class, body, unit; inferior
+政	150	government, political affairs
+美	151	beautiful, pretty; pleasing
+相	152	mutual, reciprocal, each other
+见	153	see, observe, behold; perceive
+被	154	passive indicator 'by'; bedding
+利	155	gains, advantage, profit, merit
+什	156	file of ten soldiers; mixed, miscellaneous
+二	157	two; twice
+等	158	rank, grade; wait; equal; 'etc.'
+产	159	give birth, bring forth, produce
+或	160	or, either, else; perhaps, maybe
+新	161	new, recent, fresh, modern
+己	162	self, oneself; personal, private; 6th heavenly stem
+制	163	system; establish; overpower
+身	164	body; trunk, hull; rad. no. 158
+果	165	fruit; result
+加	166	add to, increase, augment
+西	167	west(ern); westward, occident
+斯	168	this, thus, such; to lop off; emphatic particle
+月	169	moon; month; KangXi radical 74
+话	170	speech, talk, language; dialect
+合	171	combine, unite, join; gather
+回	172	return, turn around; a time
+特	173	special, unique, distinguished
+代	174	replace, replacement (of person or generation); era, generation
+内	175	inside
+信	176	trust, believe; letter
+表	177	show, express, manifest, display
+化	178	change, convert, reform; -ize
+老	179	old, aged; experienced
+给	180	give; by, for
+世	181	generation; world; era
+位	182	throne; position, post; rank, status; seat
+次	183	order, sequence; next
+度	184	degree, system; manner; to consider
+门	185	gate, door, entrance, opening
+任	186	trust to, rely on, appoint; to bear, duty, office; allow
+常	187	common, normal, frequent, regular
+先	188	first, former, previous
+海	189	sea, ocean; maritime
+通	190	pass through, common, communicate
+教	191	teach, class
+儿	192	son, child; KangXi radical 10
+原	193	source, origin, beginning
+东	194	east, eastern, eastward
+声	195	sound, voice, noise; tone; music
+提	196	hold in hand; lift in hand
+立	197	stand; let stand; establish, set
+及	198	extend; reach; come up to; and
+比	199	to compare, liken; comparison; than
+员	200	member; personnel, staff member
+解	201	loosen, unfasten, untie; explain
+水	202	water, liquid, lotion, juice
+名	203	name, rank, title, position
+真	204	real, actual, true, genuine
+论	205	debate; discuss; discourse
+处	206	place, locale; department
+走	207	walk, go on foot; run; leave
+义	208	right conduct, righteousness
+各	209	each, individually, every, all
+入	210	enter, come in(to), join
+几	211	small table
+口	212	mouth; open end; entrance, gate
+认	213	recognize, know, understand
+条	214	clause, condition; string, stripe
+平	215	flat, level, even; peaceful
+系	216	system; line, link, connection
+气	217	steam, vapor; KangXi radical 84
+题	218	forehead; title, headline; theme
+活	219	live, exist, survive; lively
+尔	220	you; that, those; final particle
+更	221	more, still further, much more
+别	222	separate, other; do not
+打	223	strike, hit, beat; fight; attack
+女	224	woman, girl; feminine; rad. 38
+变	225	change, transform, alter; rebel
+四	226	four
+神	227	spirit, god, supernatural being
+总	228	collect; overall, altogether
+何	229	what, why, where, which, how
+电	230	electricity; electric; lightning
+数	231	number; several, count; fate
+安	232	peaceful, tranquil, quiet
+少	233	few, less, inadequate
+报	234	report, tell, announce
+才	235	talent, ability; just, only
+结	236	knot, tie; join, connect
+反	237	reverse, opposite, contrary, anti
+受	238	receive, accept, get; bear, stand
+目	239	eye; look, see; division, topic
+太	240	very, too, much; big; extreme
+量	241	measure, quantity, capacity
+再	242	again, twice, re-
+感	243	feel, perceive, emotion
+建	244	build, establish, erect, found
+务	245	affairs, business; must, should
+做	246	work, make; act
+接	247	receive; continue; catch; connect
+必	248	surely, most certainly; must
+场	249	open space, field, market
+件	250	numerary adjunct for article; matter
+计	251	plan, plot; strategem; scheme
+管	252	pipe, tube, duct; woodwind music
+期	253	period of time; date; time limit
+市	254	market, fair; city, town; trade
+直	255	straight, erect, vertical
+德	256	ethics, morality, virtue
+资	257	property; wealth; capital
+命	258	life; destiny, fate, luck; an order, instruction
+山	259	mountain, hill, peak
+金	260	gold; metals in general; money
+指	261	finger, toe; point, indicate
+克	262	gram; overcome; transliteration
+许	263	allow, permit; promise; betroth
+统	264	govern, command, control; unite
+区	265	area, district, region, ward
+保	266	protect, safeguard, defend, care
+至	267	reach, arrive; extremely, very
+队	268	team, group; army unit
+形	269	form, shape, appearance
+社	270	god of the soil and altars to him; group of families; company, society
+便	271	convenience, ease; expedient
+空	272	empty, hollow, bare, deserted
+决	273	decide, determine, judge
+治	274	govern, regulate, administer
+展	275	open, unfold; stretch, extend
+马	276	horse; surname; KangXi radical 187
+科	277	section, department, science
+司	278	take charge of, control, manage; officer
+五	279	five; surname
+基	280	foundation, base
+眼	281	eye; eyelet, hole, opening
+书	282	book, letter, document; writings
+非	283	not, negative, non-; oppose
+则	284	rule, law, regulation; grades
+听	285	hear; understand; obey, comply
+白	286	white; pure, unblemished; bright
+却	287	still, but; decline; retreat
+界	288	boundary, limit; domain; society; the world
+达	289	arrive at, reach; intelligent; smooth, slippery
+光	290	light, brilliant, shine; only
+放	291	put, release, free, liberate
+强	292	strong, powerful, energetic
+即	293	promptly, quickly, immediately
+像	294	a picture, image, figure; to resemble
+难	295	difficult, arduous, hard; unable
+且	296	moreover, also (post-subject); about to, will soon (pre-verb)
+权	297	power, right, authority
+思	298	think, consider, ponder; final particle
+王	299	king, ruler; royal; surname
+象	300	elephant; ivory; figure, image
+完	301	complete, finish, settle; whole
+设	302	build; establish; display
+式	303	style, system, formula, rule
+色	304	color, tint, hue, shade; form, body; beauty, desire for beauty
+路	305	road, path, street; journey
+记	306	record; keep in mind, remember
+南	307	south; southern part; southward
+品	308	article, product, commodity
+住	309	reside, live at, dwell, lodge; stop
+告	310	tell, announce, inform; accuse
+类	311	class, group, kind, category
+求	312	seek; demand, request; beseech
+据	313	to occupy, take possession of; a base, position
+程	314	journey, trip; schedule, agenda
+北	315	north; northern; northward
+边	316	edge, margin, side, border
+死	317	die; dead; death
+张	318	stretch, extend, expand; sheet
+该	319	should, ought to, need to
+交	320	mix; intersect; exchange, communicate; deliver
+规	321	rules, regulations, customs, law
+万	322	ten thousand; innumerable
+取	323	take, receive, obtain; select
+拉	324	pull, drag; seize, hold; lengthen
+格	325	pattern, standard, form; style
+望	326	to look at, look forward; to hope, expect
+觉	327	to wake up from sleep; conscious
+术	328	art, skill, special feat; method, technique
+领	329	neck; collar; lead, guide
+共	330	together with, all, total; to share
+确	331	sure, certain; real, true
+传	332	summon; propagate, transmit
+师	333	teacher, master, specialist
+观	334	see, observe, view; appearance
+清	335	clear, pure, clean; peaceful
+今	336	now, today, modern era
+切	337	cut, mince, slice, carve
+院	338	courtyard, yard, court; school
+让	339	allow, permit, yield, concede
+识	340	recognize, understand, know
+候	341	wait; expect; visit; greet
+带	342	belt, girdle, band, strap, zone
+导	343	direct, guide, lead, conduct
+争	344	dispute, fight, contend, strive
+运	345	run; simplified form of 運 luck, fortune; ship, transport
+笑	346	smile, laugh, giggle; snicker
+飞	347	fly; go quickly; dart; high
+风	348	wind; air; manners, atmosphere
+步	349	step, pace; walk, stroll
+改	350	change, alter; improve, remodel
+收	351	gather together, collect; harvest
+根	352	root, base(d on); foundation
+干	353	oppose, offend; invade; dried
+造	354	construct, build, make, begin; prepare
+言	355	words, speech; speak, say
+联	356	connect, join; associate, ally
+持	357	sustain, support; hold, grasp
+组	358	class; section, department
+每	359	every, each
+济	360	help, aid, relieve; ferry, cross
+车	361	cart, vehicle; carry in cart
+亲	362	relatives, parents; intimate the hazel nut or filbert tree a thorny tree
+极	363	extreme, utmost, furthest, final
+林	364	forest, grove; surname
+服	365	clothes; wear, dress
+快	366	rapid, quick, speedy, fast; soon
+办	367	manage, do, handle; deal with
+议	368	consult, talk over, discuss
+往	369	go, depart; past, formerly
+元	370	first; dollar; origin; head
+英	371	petal, flower, leaf; brave, a hero; England, English
+士	372	scholar, gentleman; soldier
+证	373	prove, confirm, verify; proof
+近	374	near, close; approach; intimate
+失	375	lose; make mistake, neglect
+转	376	shift, move, turn
+夫	377	man, male adult, husband; those
+令	378	command, order; 'commandant', magistrate; allow, cause
+准	379	approve, allow, permit; in accord
+布	380	cotton cloth, textiles, linen
+始	381	begin, start; then, only then
+怎	382	what? why? how?
+呢	383	interrogative or emphatic final; (Cant.) this
+存	384	exist, live, be; survive; remain
+未	385	not yet; 8th terrestrial branch
+远	386	distant, remote, far; profound
+叫	387	cry, shout; hail, greet, call
+台	388	platform; unit; term of address
+单	389	single, individual, only; lone
+影	390	shadow; image, reflection; photograph
+具	391	tool, implement; draw up, write
+罗	392	net for catching birds; gauze
+字	393	letter, character, word
+爱	394	love, be fond of, like
+击	395	strike, hit, beat; attack, fight
+流	396	flow, circulate, drift; class
+备	397	prepare, ready, perfect
+兵	398	soldier, troops
+连	399	join, connect; continuous; even
+调	400	transfer, move, change; tune
+深	401	deep; depth; far; very, extreme
+商	402	commerce, business, trade
+算	403	count, calculate, figure; plan
+质	404	matter, material, substance
+团	405	sphere, ball, circle; mass, lump
+集	406	assemble, collect together
+百	407	one hundred; numerous, many
+需	408	need, require, must
+价	409	price, value
+花	410	flower; blossoms
+党	411	political party, gang, faction
+华	412	flowery; illustrious; Chinese
+城	413	castle; city, town; municipality
+石	414	stone, rock, mineral; rad. 112
+级	415	level, rank, class; grade
+整	416	orderly, neat, tidy; whole
+府	417	prefecture; prefect; government
+离	418	rare beast; strange; elegant
+况	419	condition, situation; furthermore
+亚	420	Asia; second
+请	421	ask, request; invite; please
+技	422	skill, ability, talent, ingenuity
+际	423	border, boundary, juncture
+约	424	treaty, agreement, covenant
+示	425	show, manifest; demonstrate
+复	426	return; repeat; repeatedly
+病	427	illness, sickness, disease
+息	428	rest, put stop to, end, cease
+究	429	examine, investigate
+线	430	line, thread, wire; clue
+似	431	resemble, similar to; as if, seem
+官	432	official, public servant
+火	433	fire, flame; burn; anger, rage
+断	434	sever, cut off; interrupt
+精	435	essence; semen; spirit
+满	436	fill; full, satisfied
+支	437	disperse, pay; support; branch
+视	438	look at, inspect, observe, see
+消	439	vanish, die out; melt away
+越	440	exceed, go beyond; the more ...
+器	441	receptacle, vessel; instrument
+容	442	looks, appearance; figure, form
+照	443	shine, illumine, reflect
+须	444	must, have to, necessary
+九	445	nine
+增	446	increase, add to, augment
+研	447	grind, rub; study, research
+写	448	write; draw, sketch; compose
+称	449	call; name, brand; address; say
+企	450	plan a project; stand on tiptoe
+八	451	eight; all around, all sides
+功	452	achievement, merit, good result
+吗	453	final interrogative particle
+包	454	wrap, pack, bundle; package
+片	455	slice, splinter, strip; rad. 91
+史	456	history, chronicle, annals
+委	457	appoint, send, commission
+乎	458	interrogative or exclamatory final particle
+查	459	investigate, examine, seek into
+轻	460	light; easy, simple; gentle
+易	461	change; easy
+早	462	early; soon; morning
+曾	463	already; sign of past
+除	464	eliminate, remove, except
+农	465	agriculture, farming; farmer
+找	466	search, seek, look for; find
+装	467	dress, clothes, attire; fill
+广	468	wide, extensive, broad; rad. 53
+显	469	manifest, display; evident, clear
+吧	470	emphatic final particle
+阿	471	prefix for people's names; used in transliteration
+李	472	plum; judge; surname
+标	473	mark, symbol, label, sign; stand the bole of a tree
+谈	474	talk; conversation; surname
+吃	475	eat; drink; suffer, endure, bear
+图	476	diagram; chart, map, picture
+念	477	think of, recall, study
+六	478	number six
+引	479	to pull, draw out, attract; to stretch
+历	480	history; calendar
+首	481	head; first; leader, chief; a poem
+医	482	cure, heal; doctor, medical
+局	483	bureau, office; circumstance
+突	484	suddenly, abruptly, unexpectedly
+专	485	monopolize, take sole possession
+费	486	expenses, expenditures, fee
+号	487	mark, sign; symbol; number
+尽	488	exhaust, use up; deplete
+另	489	another, separate, other
+周	490	Zhou dynasty; circumference
+较	491	compare; comparatively, more
+注	492	concentrate, focus, direct
+语	493	language, words; saying, expression
+仅	494	only, merely, solely, just
+考	495	examine, test; investigate
+落	496	fall, drop; net income, surplus
+青	497	blue, green, black; young
+随	498	follow, listen to, submit to
+选	499	choose, select; elect; election
+列	500	a line; to arrange in order, classify
+武	501	military; martial, warlike
+红	502	red, vermillion; blush, flush
+响	503	make sound, make noise; sound
+虽	504	although, even if
+推	505	push, expel; push forward
+势	506	power, force; tendency
+参	507	take part in, intervene; ginseng
+希	508	rare; hope, expect, strive for
+古	509	old, classic, ancient
+众	510	multitude, crowd; masses, public
+构	511	frame, building, structure
+房	512	house, building; room
+半	513	half
+节	514	knot, node, joint; section
+土	515	soil, earth; items made of earth
+投	516	throw, cast, fling, pitch; jump
+某	517	certain thing or person
+案	518	table, bench; legal case
+黑	519	black; dark; evil, sinister
+维	520	maintain, preserve, safeguard
+革	521	leather, animal hides; rad. 177
+划	522	to row or paddle boat; to scratch
+敌	523	enemy, foe, rival; resist
+致	524	send, deliver, present; cause
+陈	525	exhibit, display; plead; a surname
+律	526	statute, principle, regulation
+足	527	foot; attain, satisfy, enough
+态	528	manner, bearing, attitude
+护	529	protect, guard, defend, shelter
+七	530	seven
+兴	531	thrive, prosper, flourish
+派	532	school of thought, sect, branch
+孩	533	baby, child; children
+验	534	test, examine, inspect; verify
+责	535	one's responsibility, duty
+营	536	encampment, barracks; manage
+星	537	a star, planet; any point of light
+够	538	enough, adequate
+章	539	composition; chapter, section
+音	540	sound, tone, pitch, pronunciation
+跟	541	heel; to follow, accompany; with
+志	542	purpose, will, determination; annals
+底	543	bottom, underneath, underside
+站	544	stand up; a stand, station
+严	545	strict, rigorous, rigid; stern
+巴	546	greatly desire, anxiously hope
+例	547	precedent, example; regulation
+防	548	defend; prevent; embankment
+族	549	a family clan, ethnic group, tribe
+供	550	supply, provide for; offer in worship
+效	551	result, effect; effectiveness
+续	552	continue, carry on; succeed
+施	553	grant, bestow; give; act; name
+留	554	stop, halt; stay, detain, keep
+讲	555	explain; discuss; talk
+型	556	pattern, model, type; law; mold
+料	557	consider, conjecture; materials, ingredients
+终	558	end; finally, in the end
+答	559	answer, reply; return; assent to
+紧	560	tense, tight, taut; firm, secure
+黄	561	yellow; surname
+绝	562	to cut, sever, break off, terminate
+奇	563	strange, unusual, uncanny, occult
+察	564	examine, investigate; notice
+母	565	mother; female elders; female
+京	566	capital city
+段	567	section, piece, division
+依	568	rely on, be set in; consent, obey a wish
+批	569	comment, criticize; wholesale
+群	570	(same as U+7FA3 羣) group, crowd, multitude, mob
+项	571	neck, nape of neck; sum; funds
+故	572	ancient, old; reason, because
+按	573	put hand on, press down with hand
+河	574	river; stream; yellow river
+米	575	hulled or husked uncooked rice
+围	576	surround, encircle, corral
+江	577	large river; yangzi; surname
+织	578	weave, knit; organize, unite
+害	579	injure, harm; destroy, kill
+斗	580	Chinese peck; liquid measure
+双	581	set of two, pair, couple; both
+境	582	boundary, frontier; area, region
+客	583	guest, traveller; customer
+纪	584	record, annal, historical account
+采	585	collect, gather; pick, pluck
+举	586	raise, lift up; recommend
+杀	587	kill, slaughter, murder; hurt
+攻	588	attack, assault; criticize
+父	589	father; KangXi radical 88
+苏	590	revive, resurrect; a species of thyme; transliteration of 'Soviet'
+密	591	dense, thick, close; intimate
+低	592	low; to lower, hang, bend, bow
+朝	593	dynasty; morning
+友	594	friend, companion; fraternity
+诉	595	accuse; sue; inform; narrate
+止	596	stop, halt, desist; detain
+细	597	fine, tiny; slender, thin
+愿	598	sincere, honest, virtuous
+千	599	thousand; many, numerous; very; (Cant.) a cheater, swindler
+值	600	price
+仍	601	yet, still, as ever; again; keep -ing, continuing
+男	602	male, man; son; baron; surname
+钱	603	money, currency, coins
+破	604	break, ruin, destroy; rout
+网	605	net; network; KangXi radical 122
+热	606	hot; heat; fever; restless; zeal
+助	607	help, aid, assist
+倒	608	fall over; lie down; take turns
+育	609	produce, give birth to; educate
+属	610	class, category, type; belong to
+坐	611	sit; seat; ride, travel by
+帝	612	supreme ruler, emperor; god
+限	613	boundary, limit, line
+船	614	ship, boat, vessel
+脸	615	face; cheek; reputation
+职	616	duty, profession; office, post
+速	617	quick, prompt, speedy
+刻	618	carve, engrave; quarter hour
+乐	619	happy, glad; enjoyable; music
+否	620	not, no, negative; final particle
+刚	621	hard, tough, rigid, strong
+威	622	pomp, power; powerful; dominate
+毛	623	hair, fur, feathers; coarse
+状	624	form; appearance; shape; official
+率	625	to lead; ratio; rate; limit
+甚	626	great extent; considerably
+独	627	alone, single, solitary, only
+球	628	ball, sphere, globe; round
+般	629	sort, manner, kind, category
+普	630	universal, general, widespread
+怕	631	to fear, be afraid of; apprehensive
+弹	632	pellet, bullet, shot, shell
+校	633	school; military field officer
+苦	634	bitter; hardship, suffering
+创	635	establish, create; knife cut
+假	636	falsehood, deception; vacation
+久	637	long time (ago); time passage, grow late
+错	638	error, blunder, mistake; wrong
+承	639	inherit, receive; succeed
+印	640	print, seal, stamp, chop, mark
+晚	641	night, evening; late
+兰	642	orchid; elegant, graceful
+试	643	test, try, experiment
+股	644	thighs, haunches, rump; share
+拿	645	take, hold, grasp; bring; with
+脑	646	brain
+预	647	prepare, arrange; in advance
+谁	648	who? whom? whose? anyone?
+益	649	profit, benefit; advantage
+阳	650	male' principle; light; sun
+若	651	if, supposing, assuming; similar
+哪	652	which? where? how?
+微	653	small, prefix micro-, trifling
+尼	654	Buddhist nun; transliteration
+继	655	continue, maintain, carry on
+送	656	see off, send off; dispatch, give
+急	657	quick, quickly; urgent, pressing
+血	658	blood; radical number 143
+惊	659	frighten, surprise, startle
+伤	660	wound, injury; fall ill from
+素	661	white (silk); plain; vegetarian; formerly; normally
+药	662	leaf of Dahurian angelica plant; medicine
+适	663	go, reach; appropriate, suitable
+波	664	waves, breakers; undulations
+夜	665	night, dark; in night; by night
+省	666	province; save, economize
+初	667	beginning, initial, primary
+喜	668	like, love, enjoy; joyful thing
+卫	669	guard, protect, defend
+源	670	spring; source, head; surname
+食	671	eat; meal; food; KangXi radical number 184
+险	672	narrow pass, strategic point
+待	673	treat, entertain, receive; wait
+述	674	narrate, state, express
+陆	675	land, continental; army
+习	676	practice; flapping wings
+置	677	place, lay out; set aside
+居	678	live, dwell, reside, sit
+劳	679	labor, toil, do manual work
+财	680	wealth, valuables, riches
+环	681	jade ring or bracelet; ring
+排	682	row, rank, line
+福	683	happiness, good fortune, blessing
+纳	684	admit, take, receive, accept
+欢	685	happy, pleased, glad; joy; enjoy
+雷	686	thunder
+警	687	guard, watch; alert, alarm
+获	688	obtain, get, receive; seize
+模	689	model, standard, pattern; copy
+充	690	fill, be full, supply
+负	691	load, burden; carry, bear
+云	692	say, speak; clouds
+停	693	stop, suspend, delay; suitable
+木	694	tree; wood, lumber; wooden
+游	695	to swim; float, drift; wander, roam
+龙	696	dragon; symbolic of emperor
+树	697	tree; plant; set up, establish
+疑	698	doubt, question, suspect
+层	699	storey, layer, floor, stratum
+冷	700	cold, cool; lonely
+洲	701	continent; island; islet
+冲	702	soar; pour boiling water over
+射	703	shoot, eject, issue forth, emit
+略	704	approximately, roughly; outline
+范	705	surname; bee-like insect
+竟	706	finally, after all, at last
+句	707	sentence
+室	708	room, home, house, chamber
+异	709	different, unusual, strange
+激	710	arouse, excite, incite; quickly
+汉	711	Chinese people; Chinese language
+村	712	village, hamlet; uncouth, vulgar
+哈	713	sound of laughter
+策	714	scheme, plan; to whip; urge
+演	715	perform, put on; exercise
+简	716	simple, terse, succinct, a letter
+卡	717	card, punch card; calorie
+罪	718	crime, sin, vice; evil; hardship
+判	719	judge; discriminate; conclude
+担	720	carry, bear, undertake
+州	721	administrative division, state
+静	722	quiet, still, motionless; gentle
+退	723	step back, retreat, withdraw
+既	724	already; de facto; since; then
+衣	725	clothes, clothing; cover, skin
+您	726	honorific for 'you'
+宗	727	lineage, ancestry; ancestor, clan
+积	728	accumulate, store up, amass
+余	729	I, my, me; surname; surplus
+痛	730	pain, ache; sorry, sad; bitter
+检	731	check; examine
+差	732	to differ; different, wrong; nearly, almost; an officer
+富	733	abundant, ample; rich, wealthy
+灵	734	spirit, soul; spiritual world
+协	735	be united; cooperate
+角	736	horn; angle, corner; point
+占	737	divine; observe; versify
+配	738	match, pair; equal; blend
+征	739	invade, attack, conquer
+修	740	study; repair; cultivate
+皮	741	skin, hide, fur, feather; outer
+挥	742	direct; wipe away; squander
+胜	743	victory; excel, be better than
+降	744	descend, fall, drop; lower, down
+阶	745	stairs, steps; rank, degree
+审	746	examine, investigate; judge
+沉	747	sink, submerge; addicted to
+坚	748	hard, strong, firm; resolute
+善	749	good, virtuous, charitable, kind
+妈	750	mother, mama
+刘	751	surname; kill, destroy
+读	752	read, study; pronounce
+啊	753	exclamatory particle
+超	754	jump over, leap over; surpass
+免	755	spare; excuse from; evade
+压	756	press; oppress; crush; pressure
+银	757	silver; cash, money, wealth
+买	758	buy, purchase; bribe, persuade
+皇	759	royal, imperial; ruler, superior
+养	760	raise, rear, bring up; support
+伊	761	third person pronoun; he, she, this, that
+怀	762	bosom, breast; carry in bosom
+执	763	hold in hand; keep; carry out
+副	764	assist; supplement; assistant
+乱	765	confusion, state of chaos, revolt
+抗	766	resist, oppose, defy, reject
+犯	767	commit crime, violate; criminal
+追	768	pursue, chase after; expel
+帮	769	help, assist; defend; shoe upper
+宣	770	declare, announce, proclaim
+佛	771	Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.)
+岁	772	year; age; harvest
+航	773	sail; navigate; ship, boat
+优	774	superior, excellent; actor
+怪	775	strange, unusual, peculiar
+香	776	fragrant, sweet smelling, incense
+著	777	manifest; (Cant.) to wear
+田	778	field, arable land, cultivated
+铁	779	iron; strong, solid, firm
+控	780	accuse, charge; control
+税	781	taxes
+左	782	left; east; unorthodox, improper
+右	783	right; west; right-wing
+份	784	portion, part; duty
+穿	785	penetrate, pierce, drill; wear
+艺	786	art; talent, ability; craft
+背	787	back; back side; behind; betray
+阵	788	column, row or file of troops
+草	789	grass, straw, thatch, herbs
+脚	790	leg, foot; base, leg, foundation
+概	791	generally, approximately
+恶	792	evil, wicked, bad, foul
+块	793	piece, lump; dollar
+顿	794	pause, stop; bow, kowtow; arrange
+敢	795	to dare, venture; bold, brave
+守	796	defend, protect, guard, conserve
+酒	797	wine, spirits, liquor, alcoholic beverage
+岛	798	island
+托	799	to hold up with palm; to support, rely on
+央	800	center, conclude, run out; beg
+户	801	door; family
+烈	802	fiery, violent, vehement, ardent
+洋	803	ocean, sea; foreign; western
+哥	804	elder brother
+索	805	large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated
+胡	806	recklessly, foolishly; wildly
+款	807	item, article; clause; fund
+靠	808	lean on, trust, depend on; near
+评	809	appraise, criticize, evaluate
+版	810	printing blocks; edition
+宝	811	treasure, jewel; precious, rare
+座	812	seat; stand, base
+释	813	interprete, elucidate; release
+景	814	scenery, view; conditions
+顾	815	look back; look at; look after
+弟	816	young brother; junior; i, me
+登	817	rise, mount, board, climb
+货	818	goods, commodities, products
+互	819	mutually, reciprocally
+付	820	give, deliver, pay, hand over; entrust
+伯	821	older brother; father's elder brother; senior male 'sire'; feudal rank 'count'
+慢	822	slow(ly), leisurely, sluggish
+欧	823	translit.: Europe; ohm; surname
+换	824	change
+闻	825	hear; smell; make known; news
+危	826	dangerous, precarious; high
+忙	827	busy, pressed for time; hustling
+核	828	seed, kernel, core, nut; atom
+暗	829	dark; obscure; in secret, covert
+姐	830	elder sister, young lady
+介	831	forerunner, herald, harbinger; to lie between; sea shell; to wear armor
+坏	832	rotten, spoilt, bad, broken down
+讨	833	to discuss; ask for, beg; demand; dun; marry
+丽	834	beautiful, magnificent, elegant
+良	835	good, virtuous, respectable
+序	836	series, serial order, sequence
+升	837	arise, go up; hoist; advance
+监	838	supervise, control, direct
+临	839	draw near, approach; descend
+亮	840	bright, brilliant, radiant, light
+露	841	dew; bare, open, exposed
+永	842	long, perpetual, eternal, forever
+呼	843	breathe sigh, exhale; call, shout
+味	844	taste, smell, odor; delicacy
+野	845	open country, field; wilderness
+架	846	rack, stand, prop; prop up
+域	847	district, region, boundary; land
+沙	848	sand, gravel, pebbles; granulated
+掉	849	turn, move; shake, wag; drop down
+括	850	include, embrace, enclose
+舰	851	warship
+鱼	852	fish; surname; KangXi radical 195
+杂	853	mixed, blended; mix, mingle
+误	854	err, make mistake; interfere
+湾	855	bay, cove, inlet, bend of stream
+吉	856	lucky, propitious, good
+减	857	decrease, subtract, diminish
+编	858	knit, weave; arrange; compile
+楚	859	name of feudal state; clear
+肯	860	willing; consent to, permit
+测	861	measure, estimate, conjecture
+败	862	be defeated, decline, fail
+屋	863	house; room; building, shelter
+跑	864	run, flee, leave in hurry
+梦	865	dream; visionary; wishful
+散	866	scatter, disperse, break up
+温	867	lukewarm
+困	868	to surround, beseige; to be surrounded; difficult
+剑	869	sword, dagger, saber
+渐	870	gradually
+封	871	letter, envelope; feudal
+救	872	save, rescue, relieve; help, aid
+贵	873	expensive, costly, valuable
+枪	874	spear, lance; gun, rifle
+缺	875	be short of, lack; gap, deficit
+楼	876	building of two or more stories
+县	877	county, district, subdivision
+尚	878	still, yet; even; fairly, rather
+毫	879	fine hair; measure of length
+移	880	change place, shift; move about
+娘	881	mother; young girl; woman; wife
+朋	882	friend, pal, acquaintance
+画	883	a painting, picture, drawing; to draw
+班	884	class, group, grade; squad; job
+智	885	wisdom, knowledge, intelligence
+亦	886	also, too; likewise
+耳	887	ear; merely, only; handle
+恩	888	kindness, mercy, charity
+短	889	short; brief; deficient, lacking
+掌	890	palm of hand, sole of foot, paw
+恐	891	fear; fearful, apprehensive
+遗	892	lose; articles lost; omit
+固	893	to become solid, solidify; strength
+席	894	seat; mat; take seat; banquet
+松	895	pine tree; fir tree
+秘	896	secret, mysterious, abstruse
+谢	897	thank; decline
+鲁	898	foolish, stupid, rash; vulgar
+遇	899	meet, come across, encounter
+康	900	peaceful, quiet; happy, healthy
+虑	901	be concerned, worry about
+幸	902	luck(ily), favor, fortunately
+均	903	equal, even, fair; all, also
+销	904	melt, fuse; market, sell
+钟	905	clock; bell
+诗	906	poetry; poem, verse, ode
+藏	907	hide, conceal; hoard, store up
+赶	908	pursue, follow; expel, drive away
+剧	909	theatrical plays, opera, drama
+票	910	slip of paper or bamboo; ticket
+损	911	diminish; impair; injure
+忽	912	suddenly, abruptly; neglect
+巨	913	large, great, enormous; chief
+炮	914	large gun, cannon; artillery
+旧	915	old, ancient; former, past
+端	916	end, extreme; head; beginning
+探	917	find, locate; search, grope for
+湖	918	a lake; Hubei, Hunan; bluish-green
+录	919	copy, write down, record
+叶	920	to harmonize, to rhyme; to unite; (borrowed for) leaf
+春	921	spring; wanton
+乡	922	country; rural; village
+附	923	adhere to, append; rely on near to
+吸	924	inhale, suck in; absorb; attract
+予	925	I, me; to give
+礼	926	social custom; manners; courtesy
+港	927	port, harbor; small stream; bay
+雨	928	rain; rainy; KangXi radical 173
+呀	929	particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten
+板	930	plank, board; iron or tin plate
+庭	931	courtyard; spacious hall or yard
+妇	932	married women; woman; wife
+归	933	return; return to, revert to
+睛	934	eyeball; pupil of eye
+饭	935	cooked rice; food, meal
+额	936	forehead; tablet, plaque; fixed
+含	937	hold in mouth; cherish; contain
+顺	938	obey, submit to, go along with
+输	939	transport, carry, haul
+摇	940	wag, swing, wave; shake; scull
+招	941	beckon, summon; recruit, levy
+婚	942	get married; marriage, wedding
+脱	943	take off
+补	944	mend, patch, fix, repair, restore
+谓	945	say, tell; call, name; be called
+督	946	supervise, oversee, direct
+毒	947	poison, venom; poisonous
+油	948	oil, fat, grease, lard; paints
+疗	949	be healed, cured, recover
+旅	950	trip, journey; travel; traveler
+泽	951	marsh, swamp; grace, brilliance
+材	952	material, stuff; timber; talent
+灭	953	extinguish; wipe out, exterminate
+逐	954	chase, expel; one by one
+莫	955	do not, is not, can not; negative
+笔	956	writing brush; write; stroke
+亡	957	death, destroyed; lose, perish
+鲜	958	fresh; delicious; attractive
+词	959	words; phrase, expression
+圣	960	holy, sacred
+择	961	select, choose, pick out
+寻	962	seek, search, look for; ancient
+厂	963	factory, workshop; radical 27
+睡	964	sleep, doze
+博	965	gamble, play games; wide, broad
+勒	966	strangle, tighten
+烟	967	smoke, soot; opium; tobacco, cigarettes
+授	968	give to, transmit; confer
+诺	969	promise; assent, approve
+伦	970	normal human relationships
+岸	971	bank, shore; beach, coast
+奥	972	mysterious, obscure, profound
+唐	973	Tang dynasty; Chinese
+卖	974	sell; betray; show off
+俄	975	sudden(ly), soon; Russian
+炸	976	to fry in oil; to scald; to explode
+载	977	load; carry; transport, convey
+洛	978	river in Shanxi province; city
+健	979	strong, robust, healthy; strength
+堂	980	hall; government office
+旁	981	side; by side, close by, near
+宫	982	palace
+喝	983	drink; shout, call out
+借	984	borrow; lend; make pretext of
+君	985	sovereign, monarch, ruler, chief, prince
+禁	986	restrict, prohibit, forbid
+阴	987	female' principle; dark; secret
+园	988	garden; park, orchard
+谋	989	plan, scheme; strategem
+宋	990	Song dynasty; surname
+避	991	avoid; turn aside; escape; hide
+抓	992	scratch; clutch, seize, grab
+荣	993	glory, honor; flourish, prosper
+姑	994	father's sister; husband's mother
+孙	995	grandchild, descendent; surname
+逃	996	escape, flee; abscond, dodge
+牙	997	tooth, molars, teeth; serrated
+束	998	bind, control, restrain; bale
+跳	999	jump, leap, vault, bounce; dance
+顶	1000	top, summit, peak; to carry on the head
+玉	1001	jade, precious stone, gem
+镇	1002	town, market place; suppress
+雪	1003	snow; wipe away shame, avenge
+午	1004	noon; 7th terrestrial branch
+练	1005	to practice, drill, exercise, train
+迫	1006	coerce, force, compel; urgent
+爷	1007	father, grandfather
+篇	1008	chapter, section, essay, article
+肉	1009	flesh; meat; KangXi radical 130
+嘴	1010	mouth, lips
+馆	1011	public building
+遍	1012	everywhere, all over, throughout
+凡	1013	all, any, every; ordinary, common
+础	1014	foundation stone, plinth
+洞	1015	cave, grotto; ravine; hole
+卷	1016	scroll; curl; make a comeback
+坦	1017	flat, smooth; self-possessed
+牛	1018	cow, ox, bull; KangXi radical93
+宁	1019	calm, peaceful, serene; healthy
+纸	1020	paper
+诸	1021	various, all, these; surname
+训	1022	teach, instruct; exegesis
+私	1023	private, personal; secret
+庄	1024	village, hamlet; villa, manor
+祖	1025	ancestor, forefather; grandfather
+丝	1026	silk; fine thread; wire; strings
+翻	1027	flip over, upset, capsize
+暴	1028	violent, brutal, tyrannical
+森	1029	forest; luxuriant vegetation
+塔	1030	tower, spire, tall building
+默	1031	silent; quiet, still; dark
+握	1032	grasp, hold fast, take by hand
+戏	1033	theatrical play, show
+隐	1034	hide, conceal; hidden, secret
+熟	1035	well-cooked; ripe; familiar with
+骨	1036	bone; skeleton; frame, framework
+访	1037	visit; ask, inquire
+弱	1038	weak; fragile, delicate
+蒙	1039	cover; ignorant; suffer; mongolia
+歌	1040	song, lyrics; sing, chant; praise
+店	1041	shop, store; inn, hotel
+鬼	1042	ghost; spirit of dead; devil
+软	1043	soft, flexible, pliable; weak
+典	1044	law, canon; documentation; classic, scripture
+欲	1045	desire, want, long for; intend
+萨	1046	Buddhist gods or immortals
+伙	1047	companion, colleague; utensils
+遭	1048	come across, meet with, encounter
+盘	1049	tray, plate, dish; examine
+爸	1050	father, papa
+扩	1051	expand, enlarge, stretch
+盖	1052	cover, hide, protect
+弄	1053	do, play or fiddle with; alley
+雄	1054	male of species; hero; manly
+稳	1055	stable, firm, solid, steady
+忘	1056	forget; neglect; miss, omit
+亿	1057	hundred million; many
+刺	1058	stab; prick, irritate; prod
+拥	1059	embrace, hug, squeeze; crowd
+徒	1060	disciple, follower; go on foot
+姆	1061	child's governess; matron
+杨	1062	willow, poplar, aspen; surname
+齐	1063	6576656E2C20756E69666F726D2C206F6620657175616C206C656E677468
+赛	1064	compete, contend; contest, race
+趣	1065	what attracts one's attention
+曲	1066	crooked, bent; wrong, false
+刀	1067	knife; old coin; measure
+床	1068	bed, couch; framework, chassis
+迎	1069	receive, welcome, greet
+冰	1070	ice; ice-cold
+虚	1071	FALSE
+玩	1072	play with, joke, enjoy
+析	1073	split wood; break apart; divide
+窗	1074	window
+醒	1075	wake up; sober up; startle
+妻	1076	wife
+透	1077	penetrate, pass through
+购	1078	buy, purchase; hire
+替	1079	change, replace, substitute for
+塞	1080	stop up, block, seal, cork; pass, frontier; fortress
+努	1081	to exert, strive, make an effort; to pout
+休	1082	rest, stop; retire; do not!
+虎	1083	tiger; brave, fierce; surname
+扬	1084	scatter, spread; praise
+途	1085	way, road, path, journey; course
+侵	1086	invade, encroach upon, raid
+刑	1087	punishment, penalty; law
+绿	1088	green; chlorine
+兄	1089	elder brother
+迅	1090	quick, hasty, rapid, sudden
+套	1091	case, cover, wrapper, envelope
+贸	1092	trade, barter; mixed; rashly
+毕	1093	end, finish, conclude; completed
+唯	1094	only; yes
+谷	1095	valley, gorge, ravine
+轮	1096	wheel; revolve, turn; recur
+库	1097	armory, treasury, storehouse
+迹	1098	traces, impressions, footprints
+尤	1099	especially, particularly
+竞	1100	contend, vie, compete
+街	1101	street, road, thoroughfare
+促	1102	urge, press, hurry; close
+延	1103	delay, postpone, defer
+震	1104	shake, quake, tremor; excite
+弃	1105	reject, abandon, discard
+甲	1106	armor, shell; fingernails; 1st heavenly stem
+伟	1107	great, robust; extraordinary
+麻	1108	hemp, jute, flax; sesame
+川	1109	stream, river; flow; boil
+申	1110	to state to a superior, report; extend; 9th terrestrial branch
+缓	1111	slow, leisurely; to postpone, delay
+潜	1112	hide; hidden, secret, latent
+闪	1113	flash; avoid, dodge, evade
+售	1114	sell
+灯	1115	lantern, lamp
+针	1116	needle; pin; tack; acupuncture
+哲	1117	wise, sagacious; wise man, sage
+络	1118	enmesh, wrap around; web, net
+抵	1119	resist, oppose; deny; off-set
+朱	1120	cinnabar, vermilion; surname
+埃	1121	fine dust, dirt
+抱	1122	embrace, hold in arms, enfold
+鼓	1123	drum; beat, top, strike
+植	1124	plant, trees, plants; grow
+纯	1125	pure, clean, simple
+夏	1126	summer; great, grand, big
+忍	1127	endure, bear, suffer; forbear
+页	1128	page, sheet, leaf; rad. no. 181
+杰	1129	hero; heroic, outstanding
+筑	1130	ancient lute; build
+折	1131	break off, snap; bend
+郑	1132	state in today's Henan; surname
+贝	1133	sea shell; money, currency
+尊	1134	respect, revere, venerate; honor
+吴	1135	name of warring state; surname
+秀	1136	ear of grain; flowering, luxuriant; refined, elegant, graceful
+混	1137	to mix, blend, mingle; to bumble along
+臣	1138	minister, statesman, official
+雅	1139	elegant, graceful, refined
+振	1140	raise, excite, arouse action
+染	1141	dye; be contagious; infect
+盛	1142	abundant, flourishing; contain; fill
+怒	1143	anger, rage, passion; angry
+舞	1144	dance, posture, prance; brandish
+圆	1145	circle; round, circular; complete
+搞	1146	to clear, clarify
+狂	1147	insane, mad; violent; wild
+措	1148	place; collect, arrange; employ
+姓	1149	one's family name; clan, people
+残	1150	injure, spoil; oppress; broken
+秋	1151	autumn, fall; year
+培	1152	bank up with dirt; cultivate
+迷	1153	bewitch, charm, infatuate
+诚	1154	sincere, honest; true, real
+宽	1155	broad, wide; spacious, vast
+宇	1156	house; building, structure; eaves
+猛	1157	violent, savage, cruel; bold
+摆	1158	put, place; display; swing, sway
+梅	1159	plums; prunes; surname
+毁	1160	destroy
+伸	1161	extend, stretch out, open up; trust
+摩	1162	rub, scour, grind; friction
+盟	1163	swear; oath, covenant, alliance
+末	1164	final, last, end; insignificant
+乃	1165	then; really, indeed; as it turned out, after all; namely
+悲	1166	sorrow, grief; sorry, sad
+拍	1167	clap, tap, beat; beat or rhythm
+丁	1168	male adult; robust, vigorous; 4th heavenly stem
+赵	1169	surname; ancient state
+硬	1170	hard, firm, strong; obstinate
+麦	1171	wheat, barley, oats; simplified form of KangXi radical number 199
+蒋	1172	surname; hydropyrum latifalium
+操	1173	conduct, run, control, manage
+耶	1174	used in transliteration
+阻	1175	impede, hinder, obstruct; oppose
+订	1176	draw up agreement; arrange
+彩	1177	hue, color; variegated colors
+抽	1178	draw out, pull out; sprout
+赞	1179	help, support, assist, aid
+魔	1180	demon, evil spirits; magic power
+纷	1181	in disorder, scattered, tangled
+沿	1182	follow a course, go along
+喊	1183	shout, call out, yell; howl; cry
+违	1184	disobey, violate, defy; be apart from
+妹	1185	younger sister
+浪	1186	wave; wasteful, reckless
+汇	1187	concourse; flow together, gather
+币	1188	currency, coins, legal tender
+丰	1189	abundant, lush, bountiful, plenty
+蓝	1190	blue; indigo plant; surname
+殊	1191	different, special, unusual
+献	1192	offer, present; show, display
+桌	1193	table, desk, stand
+啦	1194	final particle of assertion
+瓦	1195	tile; earthenware pottery; girl
+莱	1196	goosefoot, weed; fallow field
+援	1197	aid, assist; lead; cite
+译	1198	translate; decode; encode
+夺	1199	take by force, rob, snatch
+汽	1200	steam, vapor, gas
+烧	1201	burn; bake; heat; roast
+距	1202	distance; bird's spur
+裁	1203	cut out; decrease
+偏	1204	inclined one side; slanting
+符	1205	i.d. tag, tally, symbol, charm
+勇	1206	brave, courageous, fierce
+触	1207	butt, ram, gore; touch
+课	1208	lesson; course; classwork
+敬	1209	respect, honor; respectfully
+哭	1210	weep, cry, wail
+懂	1211	understand, comprehend
+墙	1212	wall
+袭	1213	raid, attack; inherit
+召	1214	imperial decree; summon
+罚	1215	penalty, fine; punish, penalize
+侠	1216	chivalrous person; knight-errant
+厅	1217	hall, central room
+拜	1218	do obeisance, bow, kowtow
+巧	1219	skillful, ingenious, clever
+侧	1220	side; incline, slant, lean
+韩	1221	fence; surname; Korea
+冒	1222	risk, brave, dare
+债	1223	debt, loan, liabilities
+曼	1224	long, extended, vast; beautiful
+融	1225	melt, fuse; blend, harmonize
+惯	1226	habit, custom; habitually, usual
+享	1227	enjoy
+戴	1228	wear on top; support
+童	1229	child, boy, servant boy; virgin
+犹	1230	like, similar to, just like, as
+乘	1231	ride, ascend; avail oneself of; numerary adjunct for vehicles
+挂	1232	hang, suspend; suspense
+奖	1233	prize, reward; give award to
+绍	1234	continue, carry on; join
+厚	1235	thick; substantial; greatly
+纵	1236	indulge in, give free reign to
+障	1237	separate; shield; barricade
+讯	1238	inquire; ask; examine; reproach
+涉	1239	ford stream, wade across
+彻	1240	penetrate, pervade; penetrating
+刊	1241	publication, periodical; publish
+丈	1242	unit of length equal 3.3 meters; gentleman, man, husband
+爆	1243	crackle, pop, burst, explode
+乌	1244	crow, rook, raven; black, dark
+役	1245	service; a servant, laborer; to serve
+描	1246	copy, trace, sketch; depict
+洗	1247	wash, rinse; clean, purify
+玛	1248	agate; cornelian
+患	1249	suffer, worry about; suffering
+妙	1250	mysterious, subtle; exquisite
+镜	1251	mirror; lens; glass; glasses
+唱	1252	sing, chant, call; ditty, song
+烦	1253	bother, vex, trouble; troublesome
+签	1254	sign, endorse; slip of paper
+仙	1255	Taoist super-being, transcendent, immortal
+彼	1256	that, there, those
+弗	1257	not, negative
+症	1258	disease, illness, ailment
+仿	1259	imitate, copy; as if
+倾	1260	upset, pour out, overflow
+牌	1261	signboard, placard
+陷	1262	submerge, sink, plunge; trap
+鸟	1263	bird; KangXi radical 196
+轰	1264	rumble, explosion, blast
+咱	1265	we, us
+菜	1266	vegetables; dish, order; food
+闭	1267	shut, close; obstruct, block up
+奋	1268	strive, exert effort; arouse
+庆	1269	congratulate, celebrate
+撤	1270	omit; remove; withdraw
+泪	1271	tears; weep, cry
+茶	1272	tea
+疾	1273	illness, disease, sickness; to hate
+缘	1274	hem, margin; reason, cause; fate
+播	1275	sow, spread; broadcast; case away, reject
+朗	1276	clear, bright; distinct
+杜	1277	stop, prevent; restrict; surname
+奶	1278	milk; woman's breasts; nurse
+季	1279	quarter of year; season; surname
+丹	1280	cinnabar (native HgS); vermilion (artificial HgS used as pigment)
+狗	1281	dog, canis familiaris
+尾	1282	tail, extremity; end, stern
+仪	1283	ceremony, rites gifts; admire
+偷	1284	to steal, burglar, thief
+奔	1285	run fast, flee; rush about; run
+珠	1286	precious stone, gem, jewel, pearl
+虫	1287	insects, worms; KangXi radical 142
+驻	1288	to be stationed at, reside at; to stop
+孔	1289	opening, hole, orifice; great
+宜	1290	suitable, right, fitting, proper
+艾	1291	artemisia, mugwort; translit.
+桥	1292	bridge; beam, crosspiece
+淡	1293	weak, watery; insipid, tasteless
+翼	1294	wings; fins on fish; shelter
+恨	1295	hatred, dislike; resent, hate
+繁	1296	complicated, complex, difficult
+寒	1297	cold, wintry, chilly
+伴	1298	companion, comrade, partner; accompany
+叹	1299	sigh, admire
+旦	1300	dawn; morning; day
+愈	1301	more and more, even more
+潮	1302	tide; moist, wet, damp; flow
+粮	1303	food, grain, provisions
+缩	1304	contract, draw in, reduce
+罢	1305	cease, finish, stop; give up
+聚	1306	assemble, meet together, collect
+径	1307	narrow path; diameter; direct
+恰	1308	just, exactly, precisely; proper
+挑	1309	a load carried on the shoulders; to carry
+袋	1310	pocket, bag, sack, pouch
+灰	1311	ashes; dust; lime, mortar
+捕	1312	arrest, catch, seize
+徐	1313	slowly, quietly, calmly; composed, dignified
+珍	1314	precious, valuable, rare
+幕	1315	curtain, screen, tent
+映	1316	project; reflect light
+裂	1317	split, crack, break open; rend
+泰	1318	great, exalted, superior; big
+隔	1319	separate, partition
+启	1320	open; begin, commence; explain
+尖	1321	sharp, pointed, acute, keen
+忠	1322	loyalty, devotion, fidelity
+累	1323	tired; implicate, involve; bother
+炎	1324	flame, blaze; hot
+暂	1325	temporary
+估	1326	merchant; estimate, guess, presume
+泛	1327	to drift, float; careless, reckless
+荒	1328	wasteland, desert; uncultivated
+偿	1329	repay, recompense; restitution
+横	1330	across
+拒	1331	ward off with hand, defend
+瑞	1332	felicitous omen; auspicious
+忆	1333	remember, reflect upon; memory
+孤	1334	orphan, fatherless; solitary
+鼻	1335	nose; first; KangXi radical 209
+闹	1336	quarrel; dispute hotly
+羊	1337	sheep, goat; KangXi radical 123
+呆	1338	dull; dull-minded, simple, stupid
+厉	1339	whetstone; grind, sharpen; whet
+衡	1340	measure, weigh, judge, consider
+胞	1341	womb, placenta, fetal membrane
+零	1342	zero; fragment, fraction
+穷	1343	poor, destitute, impoverished
+舍	1344	house, dwelling; dwell, reside
+码	1345	number, numerals; yard; symbol
+赫	1346	bright, radiant, glowing
+婆	1347	old woman; grandmother
+魂	1348	soul, spirit
+灾	1349	calamity, disaster, catastrophe
+洪	1350	vast, immense; flood, deluge
+腿	1351	legs, thighs
+胆	1352	gall bladder; bravery, courage
+津	1353	ferry; saliva; ford
+俗	1354	social customs; vulgar, unrefined
+辩	1355	dispute, argue, debate, discuss
+胸	1356	breast, bosom, chest; thorax
+晓	1357	dawn, daybreak; clear, explicit
+劲	1358	strong, unyielding, tough, power
+贫	1359	poor, impoverished, needy
+仁	1360	humaneness, benevolence, kindness
+偶	1361	accidentally, coincidently; an idol
+辑	1362	gather up, collect; edit, compile
+邦	1363	nation, country, state
+恢	1364	restore; big, great, immense, vast
+赖	1365	rely, depend on; accuse falsely
+圈	1366	to circle; a circle; corral
+摸	1367	gently touch with hand; caress
+仰	1368	raise the head to look; look up to, rely on, admire
+润	1369	soft, moist; sleek; freshen
+堆	1370	heap, pile, crowd; pile up
+碰	1371	collide, bump into
+艇	1372	small boat, dugout, punt
+稍	1373	little, slightly; rather
+迟	1374	late, tardy; slow; delay
+辆	1375	numerary adjunct for vehicles
+废	1376	abrogate, terminate, discard
+净	1377	clean, pure; cleanse
+凶	1378	culprit; murder; bad, sad
+署	1379	public office
+壁	1380	partition wall; walls of a house
+御	1381	drive, ride; chariot; manage
+奉	1382	offer; receive; serve; respect
+旋	1383	revolve, move in orbit; return
+冬	1384	winter, 11th lunar month
+矿	1385	mine; mineral, ore
+抬	1386	lift, carry
+蛋	1387	eggs; term of abuse
+晨	1388	early morning, daybreak
+伏	1389	crouch, crawl, lie hidden, conceal
+吹	1390	blow; puff; brag, boast
+鸡	1391	chicken
+倍	1392	times, fold, multiple times
+糊	1393	paste, stick on with paste
+秦	1394	feudal state of Qin; the Qin dynasty (from which the name 'China' comes)
+盾	1395	shield; dutch guilder; Indonesia
+杯	1396	cup, glass
+租	1397	rent, lease; rental; tax
+骑	1398	ride horseback; mount; cavalry
+乏	1399	lack; poor
+隆	1400	prosperous, plentiful, abundant
+诊	1401	examine patient, diagnose
+奴	1402	slave, servant
+摄	1403	take in, absorb; act as deputy
+丧	1404	mourning; mourn; funeral
+污	1405	filthy, dirty, impure, polluted
+渡	1406	cross, ferry over; ferry
+旗	1407	banner, flag, streamer
+甘	1408	sweetness; sweet, tasty
+耐	1409	endure, bear; resist; patient
+凭	1410	lean on, depend on, rely on
+扎	1411	pull up; pierce; struggle free
+抢	1412	plunder, rob, take by force
+绪	1413	end of thread; thread, clue
+粗	1414	rough, thick, course; rude
+肩	1415	shoulders; to shoulder; bear
+梁	1416	bridge; beam; rafters; surname
+幻	1417	illusion, fantasy, mirage
+菲	1418	fragrant, luxuriant; the Philippines
+皆	1419	all, every, everybody
+碎	1420	break, smash; broken, busted
+宙	1421	time as concept; infinite time
+叔	1422	father's younger brother
+岩	1423	cliff; rocks; mountain
+荡	1424	pond, pool; wash away, cleanse
+综	1425	arrange threads for weaving
+爬	1426	crawl, creep; climb; scramble
+荷	1427	lotus, water lily, holland
+悉	1428	know, learn about, comprehend
+蒂	1429	peduncle or stem of plants
+返	1430	return, revert to, restore
+井	1431	well, mine shaft, pit
+壮	1432	big, large; robust; name of tribe
+薄	1433	thin, slight, weak; poor, stingy
+悄	1434	silent, quiet, still; anxious
+扫	1435	sweep, clear away; exterminate
+敏	1436	fast, quick, clever, smart
+碍	1437	obstruct, hinder, block, deter
+殖	1438	breed, spawn; increase; prosper
+详	1439	detailed, complete, thorough
+迪	1440	enlighten, advance; progress
+矛	1441	spear, lance; KangXi radical 110
+霍	1442	quickly, suddenly; surname
+允	1443	to grant, to allow, to consent
+幅	1444	piece, strip, breadth of, hem
+撒	1445	release, cast away, let go; disperse; relax
+剩	1446	leftovers, residue, remains
+凯	1447	triumphant; triumph, victory
+颗	1448	grain, kernel
+骂	1449	accuse, blame, curse, scold
+赏	1450	reward, grant, bestow; appreciate
+液	1451	sap, juice, liquid, fluid
+番	1452	to take turns; a turn, a time; to repeat
+箱	1453	case, box, chest, trunk
+贴	1454	paste to, stick on; attached to
+漫	1455	overflow of water; spreading
+酸	1456	tart, sour; acid; stiff; spoiled
+郎	1457	gentleman, young man; husband
+腰	1458	waist; kidney
+舒	1459	open up, unfold, stretch out; comfortable, easy
+眉	1460	eyebrows; upper margin of book
+忧	1461	sad, grieved; grief, melancholy
+浮	1462	to float, drift, waft; to exceed; superfluous
+辛	1463	bitter; toilsome, laborious; 8th heavenly stem
+恋	1464	love; long for, yearn for; love
+餐	1465	eat, dine; meal; food
+吓	1466	scare, frighten; intimidate
+挺	1467	to stand upright, straighten; rigid
+励	1468	strive; encourage
+辞	1469	words, speech, expression, phrase
+艘	1470	counter for ships, vessels
+键	1471	door bolt, lock bolt; key
+伍	1472	five, company of five; troops
+峰	1473	peak, summit; hump of camel
+尺	1474	Chinese measure approx. 'foot'
+昨	1475	yesterday; in former times, past
+黎	1476	surname; numerous, many; black
+辈	1477	generation, lifetime; class
+贯	1478	a string of 1000 coins; to go through
+侦	1479	spy, reconnoiter; detective
+滑	1480	slip, slide; slippery, polished
+券	1481	certificate, ticket; title deeds
+崇	1482	esteem, honor, revere, venerate
+扰	1483	disturb, annoy, agitate
+宪	1484	constitution, statute, law
+绕	1485	entwine; wind around; surround
+趋	1486	hasten, hurry; be attracted to
+慈	1487	kind, charitable, benevolent
+乔	1488	tall, lofty; proud, stately
+阅	1489	examine, inspect, review, read
+汗	1490	perspiration, sweat
+枝	1491	branches, limbs; branch off
+拖	1492	drag, tow, haul; delay, prolong
+墨	1493	ink; writing
+胁	1494	ribs, armpits; flank; threaten
+插	1495	insert, stick into; plant
+箭	1496	arrow; type of bamboo
+腊	1497	year end sacrifice; dried meat
+粉	1498	powder, face powder; plaster
+泥	1499	mud, mire; earth, clay; plaster
+氏	1500	clan, family; mister
+彭	1501	name of ancient country; surname
+拔	1502	uproot, pull out
+骗	1503	swindle, cheat out of, defraud
+凤	1504	male phoenix; symbol of joy
+慧	1505	bright, intelligent; intelligence
+媒	1506	go-between, matchmaker; medium
+佩	1507	belt ornament, pendant; wear at waist, tie to the belt; respect
+愤	1508	resent, hate; indignant
+扑	1509	pound, beat, strike; attack
+龄	1510	age; years
+驱	1511	spur a horse on; expel, drive away
+惜	1512	pity, regret, rue, begrudge
+豪	1513	brave, heroic, chivalrous
+掩	1514	to cover (with the hand); shut, conceal; ambush
+兼	1515	unite, combine; connect; and
+跃	1516	skip, jump, frolic
+尸	1517	corpse; to impersonate the dead; to preside; KangXi radical 44
+肃	1518	pay respects; reverently
+帕	1519	turban, kerchief, veil; wrap
+驶	1520	sail, drive, pilot; fast, quick
+堡	1521	fort, fortress; town, village
+届	1522	numerary adjunct for time, term
+欣	1523	happy, joyous, delighted
+惠	1524	favor, benefit, confer kindness
+册	1525	book, volume, register, list
+储	1526	save money, store, reserve; heir
+飘	1527	whirlwind, cyclone; floating
+桑	1528	mulberry tree; surname
+闲	1529	fence, guard; defend; idle time
+惨	1530	sad, pitiful, wretched; cruel
+洁	1531	clean, purify, pure
+踪	1532	footprints, traces, tracks
+勃	1533	suddenly, sudden, quick
+宾	1534	guest, visitor; surname; submit
+频	1535	frequently, again and again
+仇	1536	enemy, hate, hatred, enmity
+磨	1537	grind; polish; rub; wear out; a millstone
+递	1538	hand over, deliver; substitute
+邪	1539	wrong, evil, depraved, vicious, perverse, heterodox
+撞	1540	knock against, bump into, collide
+拟	1541	draft; intend, plan, propose
+滚	1542	turn
+奏	1543	memorialize emperor; report
+巡	1544	patrol, go on circuit, cruise
+颜	1545	face, facial appearance
+剂	1546	medicinal preparation
+绩	1547	spin; achievements
+贡	1548	offer tribute; tribute, gifts
+疯	1549	crazy, insane, mentally ill
+坡	1550	slope, bank, hillside
+瞧	1551	glance at, look at, see
+截	1552	cut off, stop, obstruct, intersect
+燃	1553	burn; light fire, ignite
+焦	1554	burned, scorched; anxious, vexed
+殿	1555	hall; palace; temple
+伪	1556	false, counterfeit, bogus
+柳	1557	willow tree; pleasure
+锁	1558	lock, padlock; shackles, chains
+逼	1559	compel, pressure, force; bother
+颇	1560	lean one side; very, rather
+昏	1561	dusk, nightfall, twilight, dark
+劝	1562	recommend, advise, urge
+呈	1563	submit, show; appear; petition
+搜	1564	search, seek; investigate
+勤	1565	industrious, diligent, attentive
+戒	1566	warn, caution, admonish
+驾	1567	to drive, sail, fly; a cart, carriage
+漂	1568	float, drift; tossed about
+饮	1569	drink; swallow; kind of drink
+曹	1570	ministry officials; surname
+朵	1571	cluster of flowers; earlobe
+仔	1572	small thing, child; young animal
+柔	1573	soft; gentle, pliant
+俩	1574	two, pair
+孟	1575	first in series; great, eminent
+腐	1576	rot, decay, spoil; rotten
+幼	1577	infant, young child; immature
+践	1578	trample, tread upon, walk on
+籍	1579	record, register, list; census
+牧	1580	tend cattle, shepherd
+凉	1581	cool, cold; disheartened
+牲	1582	sacrificial animal; animal
+佳	1583	good, auspicious; beautiful; delightful
+娜	1584	elegant, graceful, delicate
+浓	1585	thick, strong, concentrated
+芳	1586	fragrant; virtuous; beautiful
+稿	1587	draft, manuscript, rough copy
+竹	1588	bamboo; flute; KangXi radical 118
+腹	1589	stomach, belly, abdomen; inside
+跌	1590	stumble, slip, fall down; stamp
+逻	1591	patrol; inspect; watch; patrol
+垂	1592	let down; suspend, hand; down
+遵	1593	obey, comply with, follow; honor
+脉	1594	blood vessels, veins, arteries
+貌	1595	countenance, appearance
+柏	1596	cypress, cedar
+狱	1597	prison, jail; case; lawsuit
+猜	1598	guess, conjecture, suppose; feel
+怜	1599	pity, sympathize
+惑	1600	confuse, mislead, baffle; doubt
+陶	1601	pottery, ceramics
+兽	1602	beast, animal; bestial
+帐	1603	tent; screen, mosquito net
+饰	1604	decorate, ornament, adorn
+贷	1605	lend; borrow; pardon
+昌	1606	light of sun; good, proper
+叙	1607	express, state, relate, narrate
+躺	1608	lie down, recline
+钢	1609	steel; hard, strong, tough
+沟	1610	ditch, drain, narrow waterway
+寄	1611	send, transmit, mail; rely on
+扶	1612	support, help; protect; hold on
+铺	1613	shop, store; place sleep, bed
+邓	1614	surname
+寿	1615	old age, long life; lifespan
+惧	1616	fear, be afraid of, dread
+询	1617	inquire into, ask about; consult
+汤	1618	hot water; soup, gravy, broth
+盗	1619	rob, steal; thief, bandit
+肥	1620	fat, plump, obese; fertile
+尝	1621	taste; experience, experiment
+匆	1622	hastily, in haste, hurriedly
+辉	1623	brightness, luster, brilliance
+奈	1624	but, how; bear, stand, endure
+扣	1625	knock, strike, rap, tap; button
+廷	1626	court
+澳	1627	inlet, bay; dock, bank
+嘛	1628	final exclamatory particle
+董	1629	direct, supervise; surname
+迁	1630	move, shift, change; transfer; relocate a capital city
+凝	1631	coagulate; congeal; freeze
+慰	1632	comfort, console, calm
+厌	1633	dislike, detest, reject; satiate
+脏	1634	internal organs, viscera; dirty
+腾	1635	fly; gallop; run; prance; rise
+幽	1636	quiet, secluded, tranquil; dark
+怨	1637	hatred, enmity, resentment
+鞋	1638	shoes, footwear in general
+丢	1639	discard
+埋	1640	bury, secrete, conceal
+泉	1641	spring, fountain; wealth, money
+涌	1642	surge up, bubble up, gush forth
+辖	1643	linchpin of wheel; control
+躲	1644	hide, secrete; avoid, escape
+晋	1645	advance, increase; promote
+紫	1646	purple, violet; amethyst; surname
+艰	1647	difficult, hard; distressing
+魏	1648	kingdom of Wei; surname
+吾	1649	i, my, our; resist, impede
+慌	1650	nervous, panicky, frantic
+祝	1651	pray for happiness or blessings
+邮	1652	postal, mail; post office
+吐	1653	vomit, spew out, cough up
+狠	1654	vicious, cruel; severely, extreme
+鉴	1655	mirror, looking glass; reflect
+曰	1656	say; KangXi radical 73
+械	1657	weapons; implements, instruments
+咬	1658	bite, gnaw
+邻	1659	neighbor; neighborhood
+赤	1660	red; communist, 'red'; bare
+挤	1661	crowd, squeeze, push against
+弯	1662	bend, curve
+椅	1663	chair, seat
+陪	1664	accompany, be with, keep company
+割	1665	cut, divide, partition; cede
+揭	1666	raise, lift up; surname
+韦	1667	tanned leather; surname; simplified form of KangXi radical number 178
+悟	1668	to apprehend, realize, become aware
+聪	1669	intelligent, clever, bright
+雾	1670	fog, mist, vapor, fine spray
+锋	1671	point of spear, sharp point
+梯	1672	ladder, steps, stairs; lean
+猫	1673	cat
+祥	1674	good luck, good omen; happiness
+阔	1675	broad, ample, wide; be apart
+誉	1676	fame, reputation; praise
+筹	1677	chip, tally, token; raise money
+丛	1678	bush, shrub; thicket; collection
+牵	1679	drag, pull, lead by hand
+鸣	1680	cry of bird or animal; make sound
+沈	1681	sink, submerge; addicted to; surname
+阁	1682	chamber, pavilion; cabinet
+穆	1683	majestic, solemn, reverent; calm
+屈	1684	bend, flex; bent, crooked; crouch
+旨	1685	purpose, aim; excellent
+袖	1686	sleeve; put something in sleeve
+猎	1687	hunt; field sports
+臂	1688	arm
+蛇	1689	snake
+贺	1690	congratulate; send present
+柱	1691	pillar, post; support; lean on
+抛	1692	throw (away)
+鼠	1693	rat, mouse; KangXi radical 208
+瑟	1694	large stringed musical instrument; dignified, massive; sound of wind
+戈	1695	halberd, spear, lance; rad. 62
+牢	1696	prison; stable, pen; secure
+逊	1697	humble, modest; yield
+迈	1698	take a big stride; pass by
+欺	1699	cheat, double-cross, deceive
+吨	1700	metric ton; (Cant.) to babble, gibberish
+琴	1701	Chinese lute or guitar
+衰	1702	decline, falter, decrease; weaken
+瓶	1703	jug, pitcher, vase, jar, bottle
+恼	1704	angered, filled with hate
+燕	1705	swallow (bird); comfort, enjoy
+仲	1706	middle brother; go between, mediator; surname
+诱	1707	persuade, entice, induce; guide
+狼	1708	wolf
+池	1709	pool, pond; moat; cistern
+疼	1710	aches, pains; be fond of; love
+卢	1711	cottage, hut; surname; black
+仗	1712	rely upon; protector; fight; war, weaponry
+冠	1713	cap, crown, headgear
+粒	1714	grain; small particle
+遥	1715	far away, distant, remote
+吕	1716	surname; a musical note
+玄	1717	deep, profound, abstruse; KangXi radical 95
+尘	1718	dust, dirt, ashes, cinders
+冯	1719	surname; gallop; by dint of
+抚	1720	pat, console, comfort; pacify
+浅	1721	shallow, not deep; superficial
+敦	1722	esteem; honest, candid, sincere
+纠	1723	investigate, inspect
+钻	1724	drill, bore; pierce; diamond
+晶	1725	crystal; clear, bright; radiant
+岂	1726	how? what?
+峡	1727	gorge, strait, ravine; isthmus
+苍	1728	blue; green
+喷	1729	spurt, blow out, puff out
+耗	1730	consume, use up; waste, squander
+凌	1731	pure; virtuous; insult; maltreat
+敲	1732	strike, beat, pound, hammer; rap
+菌	1733	mushroom; germ, microbe
+赔	1734	indemnify, suffer loss
+涂	1735	surname; name of certain rivers
+粹	1736	pure; unadulterated; select
+扁	1737	flat; tablet, signboard
+亏	1738	lose, fail; damage; deficient
+寂	1739	still, silent, quiet, desolate
+煤	1740	coal, coke, charcoal, carbon
+熊	1741	a bear; brilliant; bright; surname
+恭	1742	respectful, polite, reverent
+湿	1743	wet, moist, humid, damp; illness
+循	1744	obey, comply with, follow
+暖	1745	warm, genial
+糖	1746	sugar; candy; sweets
+赋	1747	tax; give; endow; army; diffuse
+抑	1748	press down, repress; curb, hinder
+秩	1749	order; orderly; salary; decade
+帽	1750	hat, cap; cap-like tops
+哀	1751	sad, mournful, pitiful; pity
+宿	1752	stop, rest, lodge, stay overnight; constellation
+踏	1753	step on, trample, tread on, walk
+烂	1754	rotten, spoiled, decayed
+袁	1755	robe; surname
+侯	1756	marquis, lord; target in archery
+抖	1757	tremble, shake, rouse; give shake
+夹	1758	be wedged or inserted between
+昆	1759	elder brother; descendants
+肝	1760	liver
+擦	1761	wipe, scrub, rub, scour; brush
+猪	1762	pig, hog, wild boar
+炼	1763	smelt, refine; distill, condense
+恒	1764	constant, regular, persistent
+慎	1765	act with care, be cautious
+搬	1766	transfer, move, remove, shift
+纽	1767	knot; button; handle, knob; tie
+纹	1768	line, streak, stripe; wrinkle
+玻	1769	glass
+渔	1770	to fish; seize; pursue; surname
+磁	1771	magnetic; magnetism; porcelain
+铜	1772	copper, brass, bronze
+齿	1773	teeth; gears, cogs; age; simplified form of the KangXi radical number 211
+跨	1774	straddle, bestride, ride; carry
+押	1775	mortgage, pledge; deposit; to pawn; to arrest, detain, guard
+怖	1776	terror, fear; frighten; terrified
+漠	1777	desert; aloof, indifferent, cool
+疲	1778	feel tired, be exhausted; weak
+叛	1779	rebel; rebellion; rebellious
+遣	1780	send, dispatch; send off, exile
+兹	1781	now, here; this; time, year
+祭	1782	sacrifice to, worship
+醉	1783	intoxicated, drunk; addicted to
+拳	1784	fist; various forms of boxing
+弥	1785	extensive, full; fill; complete
+斜	1786	slanting, sloping, inclined
+档	1787	shelf; frame, crosspiece
+稀	1788	rare, unusual, scarce; sparse
+捷	1789	win, victory, triumph
+肤	1790	skin; superficial, shallow
+疫	1791	epidemic, plague, pestilence
+肿	1792	swell; swollen; swelling
+豆	1793	beans, peas; bean-shaped
+削	1794	scrape off, pare, trim
+岗	1795	post; position
+晃	1796	bright, dazzling; to sway, shake
+吞	1797	swallow; absorb, annex, engulf
+宏	1798	wide, spacious, great, vast
+癌	1799	cancer; marmoset
+肚	1800	belly; abdomen; bowels
+隶	1801	subservient; servant; KangXi radical 171
+履	1802	footwear, shoes; walk on, tread
+涨	1803	rise in price
+耀	1804	shine, sparkle, dazzle; glory
+扭	1805	turn, twist, wrench; seize, grasp
+坛	1806	altar; arena, examination hall
+拨	1807	move; dispel; distribute
+沃	1808	water, irrigate; fertile, rich
+绘	1809	draw, sketch, paint
+伐	1810	cut down, subjugate, attack
+堪	1811	adequately capable of, worthy of
+仆	1812	fall forward; lie prostrate, prone; servant
+郭	1813	outer part (of a city); surname
+牺	1814	sacrifice, give up; sacrificial
+歼	1815	annihilate, wipe out, kill off
+墓	1816	grave, tomb
+雇	1817	employ, to hire
+廉	1818	upright, honorable, honest
+契	1819	deed, contract, bond; engrave
+拼	1820	join together, link, incorporate
+惩	1821	punish, reprimand; warn
+捉	1822	grasp, clutch; catch, seize
+覆	1823	cover; tip over; return; reply
+刷	1824	brush; clean with brush, scrub
+劫	1825	take by force, coerce; disaster
+嫌	1826	hate, detest; suspect; criticize
+瓜	1827	melon, gourd, cucumber; rad. 97
+歇	1828	rest, stop, lodge
+雕	1829	engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture
+闷	1830	gloomy, depressed, melancholy
+乳	1831	breast, nipples; milk, suckle
+串	1832	string; relatives; conspire
+娃	1833	baby; doll; pretty girl
+缴	1834	deliver, submit; hand over
+唤	1835	call
+赢	1836	win; surplus, gain, profit
+莲	1837	lotus, water lily; paradise
+霸	1838	rule by might rather than right
+桃	1839	peach; marriage; surname
+妥	1840	satisfactory, appropriate
+瘦	1841	thin, emaciated, lean; meager
+搭	1842	join together, attach to; add to
+赴	1843	go to; attend, be present
+岳	1844	mountain peak; surname
+嘉	1845	excellent; joyful; auspicious
+舱	1846	hold of ship; cabin
+俊	1847	talented, capable; handsome
+址	1848	site, location, land for house
+庞	1849	disorderly, messy; huge, big
+耕	1850	plow, cultivate
+锐	1851	sharp, keen, acute, pointed
+缝	1852	sew, mend
+悔	1853	repent, show remorse, regret
+邀	1854	invite, welcome; meet, intercept
+玲	1855	tinkling of jade
+惟	1856	but, however, nevertheless; only
+斥	1857	to scold, upbraid, accuse, reproach
+宅	1858	residence, dwelling, home; grave
+添	1859	append, add to; increase
+挖	1860	dig, dig out, gouge out, scoop
+呵	1861	scold; laughing sound; yawn
+讼	1862	accuse; argue, dispute; litigate
+氧	1863	oxygen
+浩	1864	great, numerous, vast, abundant
+羽	1865	feather, plume; wings; rad. 124
+斤	1866	a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69
+酷	1867	strong, stimulating; very
+掠	1868	rob, ransack, plunder; pass by
+妖	1869	strange, weird, supernatural
+祸	1870	misfortune, calamity, disaster
+侍	1871	serve, attend upon; attendant, servant; samurai
+乙	1872	second; 2nd heavenly stem
+妨	1873	interfere with, impede, obstruct
+贪	1874	be greedy, covet; covetous
+挣	1875	strive, endeavor, struggle
+汪	1876	vast, extensive, deep; surname
+尿	1877	urine; urinate
+莉	1878	white jasmine
+悬	1879	hang, suspend, hoist; be hung
+唇	1880	lips
+翰	1881	writing brush, pen, pencil
+仓	1882	granary; berth; sea
+轨	1883	track, rut, path
+枚	1884	stalk of shrub, trunk of tree
+盐	1885	salt
+览	1886	look at, inspect; perceive
+傅	1887	tutor, teacher; assist; surname
+帅	1888	commander, commander-in-chief
+庙	1889	temple, shrine; imperial court
+芬	1890	fragrance, aroma; perfume
+屏	1891	folding screen, shield
+寺	1892	court, office; temple, monastery
+胖	1893	fat, obese; fatty
+璃	1894	glass
+愚	1895	stupid, doltish, foolish
+滴	1896	drip; drop of water
+疏	1897	neglect; careless, lax
+萧	1898	common artemisia; dejected
+姿	1899	one's manner, carriage, bearing
+颤	1900	shiver, tremble; trembling
+丑	1901	clown, comedian; 2nd terrestrial branch
+劣	1902	bad, inferior; slightly
+柯	1903	axe-handle; stalk, bough; surname
+寸	1904	inch; small, tiny; KangXi radical 41
+扔	1905	throw, hurl; throw away, cast
+盯	1906	rivet gaze upon, keep eyes on
+辱	1907	humiliate, insult, abuse
+匹	1908	bolt of cloth; counter for horses
+俱	1909	all, together; accompany
+辨	1910	distinguish, discriminate
+饿	1911	hungry; greedy for; hunger
+蜂	1912	bee, wasp, hornet
+哦	1913	oh? really? is that so?
+腔	1914	chest cavity; hollow in body
+郁	1915	sweet smelling, rich in aroma; (Cant.) to move, hit
+溃	1916	flooding river; militarily defeat
+谨	1917	prudent, cautious; attentive
+糟	1918	sediment, dregs; pickle
+葛	1919	edible bean; surname
+苗	1920	sprouts; Miao nationality
+肠	1921	intestines; emotions; sausage
+忌	1922	jealous, envious; fear
+溜	1923	slide, glide, slip; slippery
+鸿	1924	species of wild swan; vast
+爵	1925	feudal title or rank
+鹏	1926	fabulous bird of enormous size
+鹰	1927	falcon; Accipiter species (various)
+笼	1928	cage; cage-like basket
+丘	1929	hill; elder; empty; a name
+桂	1930	cassia or cinnamon
+滋	1931	grow, multiply, increase; thrive
+聊	1932	somewhat, slightly, at least
+挡	1933	obstruct, impede; stop; resist
+纲	1934	heavy rope, hawser; main points
+肌	1935	muscle tissue; meat on bones
+茨	1936	thatching; caltrop, Tribulus terrestris
+壳	1937	casing, shell, husk
+痕	1938	scar; mark; trace
+碗	1939	bowl, small dish
+穴	1940	cave, den, hole; KangXi radical 116
+膀	1941	upper arm; shoulder; wing
+卓	1942	profound, brilliant, lofty
+贤	1943	virtuous, worthy, good; able
+卧	1944	lie down; crouch
+膜	1945	membrane; to kneel and worship
+毅	1946	resolute, decisive, firm, persist
+锦	1947	brocade, tapestry; embroidered
+欠	1948	owe, lack, be deficient; KangXi radical number 76
+哩	1949	mile
+函	1950	correspondence; a case; a box
+茫	1951	vast, boundless, widespread
+昂	1952	rise, raise; proud, bold; upright
+薛	1953	kind of marsh grass; feudal state
+皱	1954	wrinkles, creases, folds
+夸	1955	extravagant, luxurious; handsome
+豫	1956	relaxed, comfortable, at ease
+胃	1957	stomach; gizzard of fowl
+舌	1958	tongue; clapper of bell; KangXi radical 135
+剥	1959	peel
+傲	1960	proud, haughty, overbearing
+拾	1961	pick up, collect, tidy up; accounting form of the numeral ten
+窝	1962	nest; cave, den; hiding place
+睁	1963	open eyes; stare
+携	1964	lead by hand, take with; carry
+陵	1965	hill, mound; mausoleum
+哼	1966	hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval
+棉	1967	cotton; cotton padded
+晴	1968	clear weather, fine weather
+铃	1969	bell
+填	1970	fill in, fill up; make good
+饲	1971	raise animals; feed; nourish
+渴	1972	thirsty, parched; yearn, pine
+吻	1973	kiss; the lips; coinciding
+扮	1974	dress up; dress up as
+逆	1975	disobey, rebel; rebel, traitor
+脆	1976	crisp; fragile, frail; brittle
+喘	1977	pant, gasp, breathe heavily
+罩	1978	basket for catching fish; cover
+卜	1979	fortune telling; prophesy
+炉	1980	fireplace, stove, oven, furnace
+柴	1981	firewood, faggots, fuel
+愉	1982	pleasant, delightful; please
+绳	1983	rope, string, cord; control
+胎	1984	unborn child, embryo, fetus
+蓄	1985	store, save, hoard, gather
+眠	1986	close eyes, sleep; hibernate
+竭	1987	put forth great effort; exhaust
+喂	1988	interjection to call attention
+傻	1989	foolish, silly, stupid; an imbecile
+慕	1990	long for, desire; admire
+浑	1991	muddy, turbid; blend, merge, mix
+奸	1992	crafty, villainous, false
+扇	1993	fan; door panel
+柜	1994	cabinet, cupboard; shop counter
+悦	1995	pleased, contented, gratified
+拦	1996	obstruct, impede, bar, hinder
+诞	1997	bear children, give birth; birth
+饱	1998	eat heartily; eat one's fill
+乾	1999	dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male)
+泡	2000	bubbles, suds; blister; soak
+贼	2001	thief, traitor; kill
+亭	2002	pavilion; erect
+夕	2003	evening, night, dusk; slanted
+爹	2004	father, daddy
+酬	2005	toast; reward, recompense
+儒	2006	Confucian scholar
+姻	2007	relatives by marriage
+卵	2008	egg; ovum; roe; spawn
+氛	2009	gas, vapor, air
+泄	2010	leak; vent; flow; reveal
+杆	2011	pole; shaft of spear
+挨	2012	near, close by, next to, towards, against; to wait; to lean on
+僧	2013	Buddhist priest, monk; san of Sanskrit sangha
+蜜	2014	honey; sweet; nectar
+吟	2015	sing, hum; recite; type of poetry
+猩	2016	species of orangutan
+遂	2017	comply with, follow along; thereupon
+狭	2018	narrow, limited; narrow-minded
+肖	2019	look like, resemble, be like
+甜	2020	sweet, sweetness
+霞	2021	rosy clouds
+驳	2022	varicolored, variegated; mixed
+裕	2023	abundant, rich, plentiful
+顽	2024	obstinate, stubborn; recalcitrant
+於	2025	in, at, on; interjection alas!
+摘	2026	pluck, pick; select; specify
+矮	2027	short, dwarf; low
+秒	2028	beard of grain or corn; a second
+卿	2029	noble, high officer
+畜	2030	livestock, domestic animals
+咽	2031	throat; pharynx
+披	2032	wear; split; crack
+辅	2033	cheek bone; protective; assist
+勾	2034	hook, join, connect; entice
+盆	2035	basin, tub, pot, bowl
+疆	2036	boundary, border, frontier
+赌	2037	bet, gamble, wager; compete
+塑	2038	model in clay, sculpt; plastics
+畏	2039	fear, dread, awe, reverence
+吵	2040	argue, dispute; disturb, annoy
+囊	2041	bag, purse, sack; put in bag
+嗯	2042	final particle
+泊	2043	anchor vessel; lie at anchor
+肺	2044	lungs
+骤	2045	procedure; gallop; sudden(ly)
+缠	2046	wrap, wind around; tie, bind
+冈	2047	ridge or crest of hill
+羞	2048	disgrace, shame; ashamed; shy
+瞪	2049	stare at
+吊	2050	condole, mourn, pity; hang
+贾	2051	surname; merchant; buy, trade
+漏	2052	leak, drip; funnel; hour glass
+斑	2053	mottled, striped, freckle
+涛	2054	large waves
+悠	2055	long, far, remote, distant; liesurely
+鹿	2056	deer; surname; KangXi radical 198
+俘	2057	prisoner of war; take as prisoner
+锡	2058	tin, stannum; bestow, confer
+卑	2059	humble, low, inferior; despise
+葬	2060	bury, inter
+铭	2061	inscribe, engrave
+滩	2062	bank, a sandbar, shoal; rapids
+嫁	2063	to marry, give a daughter in marriage
+催	2064	press, urge
+璇	2065	beautiful jade; star
+翅	2066	wings; fin
+盒	2067	small box or case; casket
+蛮	2068	barbarians; barbarous, savage
+矣	2069	particle of completed action
+潘	2070	surname; water in which rice has been rinsed; a river that flows into the Han
+歧	2071	fork of road; branching off
+赐	2072	give, bestow favors; appoint
+鲍	2073	abalone; dried fish; surname
+锅	2074	cooking-pot, saucepan
+廊	2075	corridor, porch, veranda
+拆	2076	to break up, split apart, rip open; to destroy
+灌	2077	pour; water; irrigate, flood
+勉	2078	endeavor, make effort; urge
+盲	2079	blind; unperceptive, shortsighted
+宰	2080	to slaughter; to rule
+佐	2081	assist, aid, second; subordinate
+啥	2082	what?
+胀	2083	swell, inflate, expand
+扯	2084	rip up, tear down; raise; haul
+禧	2085	happiness; congratulations
+辽	2086	distant, far
+抹	2087	smear, apply, wipe off, erase
+筒	2088	thick piece of bamboo; pipe
+棋	2089	chess; any game similar to chess
+裤	2090	trousers, pants
+唉	2091	alas, exclamation of surprise or pain
+朴	2092	simple, unadorned; sincere; surname; a tree
+咐	2093	instruct, order
+孕	2094	be pregnant, pregnancy
+誓	2095	swear, pledge; oath
+喉	2096	throat, gullet, larynx; guttural
+妄	2097	absurd, foolish, reckless; false
+拘	2098	restrain, seize, detain
+链	2099	chain, wire, cable; chain, shack
+驰	2100	go quickly or swiftly; hurry
+栏	2101	railing, balustrade; animal pan
+逝	2102	pass away; die
+窃	2103	secretly, stealthily; steal; thief
+艳	2104	beautiful, sexy, voluptuous
+臭	2105	smell, stink, emit foul odor
+纤	2106	fine, delicate; minute; graceful
+玑	2107	pearl that is not quite round
+棵	2108	numerary adjunct for trees
+趁	2109	take advantage of, avail oneself
+匠	2110	craftsman, artisan; workman
+盈	2111	fill; full, overflowing; surplus
+翁	2112	old man; father, father-in-law
+愁	2113	anxiety; to worry about, be anxious
+瞬	2114	wink, blink; in a wink, a flash
+婴	2115	baby, infant; bother
+孝	2116	filial piety, obedience; mourning
+颈	2117	neck, throat
+倘	2118	if, supposing, in event of
+浙	2119	Zhejiang province; river
+谅	2120	excuse, forgive; guess, presume
+蔽	2121	cover, hide, conceal; shelter
+畅	2122	smoothly, freely, unrestrained
+赠	2123	give present; bestow, confer
+妮	2124	maid, servant girl; cute girl
+莎	2125	kind of sedge grass, used anciently for raincoats
+尉	2126	officer, military rank
+冻	2127	freeze; cold, congeal; jelly
+跪	2128	kneel
+闯	2129	rush in, burst in, charge in
+葡	2130	grapes
+後	2131	behind, rear, after; descendents
+厨	2132	kitchen; closet; cupboard
+鸭	2133	duck; Anas species (various)
+颠	2134	top, peak, summit; upset
+遮	2135	cover, shield, protect
+谊	2136	friendship; appropriate, suitable
+圳	2137	furrow in field, small drainage ditch
+吁	2138	interjection 'Alas!'; to sigh
+仑	2139	logical reasons, logical order
+辟	2140	law, rule; open up, develop
+瘤	2141	tumor, lump, goiter
+嫂	2142	sister-in-law, elder brother's wife
+陀	2143	steep bank, rough terrain
+框	2144	frame; framework; door frame
+谭	2145	surname
+亨	2146	smoothly, progressing, no trouble
+钦	2147	respect, admire; respectful
+庸	2148	usual, common, ordinary, mediocre
+歉	2149	deficient, lacking, insufficient
+芝	2150	sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and relicitous plant' (Karlgren)
+吼	2151	roar, shout; bark, howl
+甫	2152	begin; man, father; great; a distance of ten li
+衫	2153	shirt; robe; gown; jacket
+摊	2154	spread out, open; apportion
+宴	2155	to entertain, feast; a feast, banquet
+嘱	2156	order, tell, instruct, leave word
+衷	2157	heart, from bottom of one's heart
+娇	2158	seductive and loveable; tender
+陕	2159	mountain pass; Shanxi province
+矩	2160	carpenter's square, ruler, rule
+浦	2161	bank of river, shore; surname
+讶	2162	express surprise, be surprised
+耸	2163	urge on; rise up; stir, excite
+裸	2164	bare, nude; undress, strip
+碧	2165	jade; green, blue
+摧	2166	destroy, break, injure
+薪	2167	fuel, firewood; salary
+淋	2168	drip, soak, drench; perfectly
+耻	2169	shame, humiliation; ashamed
+胶	2170	glue, gum, resin, rubber; sound; shin bone
+屠	2171	butcher, slaughter, massacre
+鹅	2172	goose
+饥	2173	hunger, starving; hungry; a famine
+盼	2174	look, gaze; expect, hope for
+脖	2175	neck
+虹	2176	rainbow
+翠	2177	color green; kingfisher
+崩	2178	rupture, split apart, collapse
+账	2179	accounts; bill, debt; credit
+萍	2180	duckweed; wandering, traveling
+逢	2181	come upon, happen meet; flatter
+赚	2182	make money, earn; gain, profit
+撑	2183	prop up, support; brace
+翔	2184	soar, glide, hover; detailed
+倡	2185	guide, leader; lead, introduce
+绵	2186	cotton wad; wool; soft, downy
+猴	2187	monkey, ape; monkey-like
+枯	2188	dried out, withered, decayed
+巫	2189	wizard, sorcerer, witch, shaman
+昭	2190	bright, luminous; illustrious
+怔	2191	a disease resembling neurosis
+渊	2192	surge up, bubble up, gush forth
+凑	2193	piece together, assemble
+溪	2194	mountain stream, creek
+蠢	2195	wriggle; stupid; silly; fat
+禅	2196	meditation, contemplation (DKW: 24787')
+阐	2197	explain, clarify, elucidate
+旺	2198	prosper; prosperous; increase
+寓	2199	residence; lodge; dwell
+藤	2200	rattan, cane; creeper plant
+匪	2201	bandits, robbers, gangsters
+伞	2202	umbrella, parasol, parachute
+碑	2203	stone tablet; gravestone
+挪	2204	move, shift on one side
+琼	2205	jade; rare, precious; elegant; (Cant.) to coagulate
+脂	2206	fat, grease, lard; grease
+谎	2207	lie
+慨	2208	sigh, regret; generous
+菩	2209	herb, aromatic plant
+萄	2210	grapes
+狮	2211	lion
+掘	2212	dig, excavate; excavate cave
+抄	2213	copy, confiscate, seize
+岭	2214	mountain ridge, mountain peak
+晕	2215	halo in sky; fog; dizzy, faint
+逮	2216	seize, catch; reach, arrive
+砍	2217	hack, chop, cut, fell
+掏	2218	take out; pull out; clean out
+狄	2219	tribe from northern china; surnam
+晰	2220	clear, evident; clearly
+罕	2221	rare, scarce; surname
+挽	2222	pull; pull back, draw back
+脾	2223	spleen, pancreas; disposition
+舟	2224	boat, ship; KangXi radical 137
+痴	2225	foolish, stupid, dumb, silly
+蔡	2226	surname; species of tortoise
+剪	2227	scissors; cut, divide, separate
+脊	2228	spine, backbone; ridge
+弓	2229	bow; curved, arched; KangXi radical number 57
+懒	2230	lazy, languid, listless
+叉	2231	crotch; fork, prong
+拐	2232	kidnap, abduct; turn
+喃	2233	keep talking, chattering; mumble
+僚	2234	companion, colleague; officials; bureaucracy; a pretty face
+捐	2235	contribute; give up, renounce
+姊	2236	elder sister
+骚	2237	harass, bother, annoy, disturb
+拓	2238	expand; open up; support or push
+歪	2239	slant; inclined; askewd, awry
+粘	2240	viscous, mucous; glutinous
+柄	2241	handle, lever, knob; authority
+坑	2242	pit, hole; bury, trap; harry
+陌	2243	foot path between rice fields
+窄	2244	narrow, tight; narrow-minded
+湘	2245	Hunan province
+兆	2246	omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion
+崖	2247	cliff, precipice; precipitous
+骄	2248	spirited horse; haughty
+刹	2249	temple, shrine, monastary
+鞭	2250	whip; whip; string of firecrackers
+芒	2251	Miscanthus sinensis
+筋	2252	muscles; tendons
+聘	2253	engage, employ; betroth
+钩	2254	hook, barb; sickle; stroke with
+棍	2255	stick, cudgel; scoundrel
+嚷	2256	shout, brawl, make uproar, cry
+腺	2257	gland
+弦	2258	string; hypotenuse, crescent
+焰	2259	flame, blaze; glowing, blazing
+耍	2260	frolic, play, amuse, play with
+俯	2261	bow down, face down, look down
+厘	2262	thousandth part of tael
+愣	2263	be in a daze
+厦	2264	big building, mansion
+恳	2265	sincere, earnest, cordial
+饶	2266	bountiful, abundant, plentiful
+钉	2267	nail, spike; pursue closely
+寡	2268	widowed; alone, friendless
+憾	2269	to regret, remorse; dissatisfied
+摔	2270	fall ground, stumble, trip
+叠	2271	pile; be piled up; fold up
+惹	2272	irritate, vex, offend, incite
+喻	2273	metaphor, analogy; example; like
+谱	2274	list, table; musical score
+愧	2275	ashamed, conscience-stricken
+煌	2276	bright, shining, luminous
+徽	2277	a badge, insignia
+溶	2278	to melt, dissolve; overflowing with
+坠	2279	fall down, drop, sink, go to ruin
+煞	2280	malignant deity; baleful, noxious; strike dead
+巾	2281	kerchief; towel; turban; KangXi radical number 50
+滥	2282	flood, overflow; excessive
+洒	2283	sprinkle; scatter; pour; to wipe away; to shiver
+堵	2284	wall; stop, prevent; stop up
+瓷	2285	crockery, porcelain, chinaware
+咒	2286	curse, damn, incantation
+姨	2287	mother/wife's sister; concubine
+棒	2288	stick, club, truncheon; hit
+郡	2289	administrative division
+浴	2290	bathe, wash; bath
+媚	2291	charming, attractive; flatter
+稣	2292	revive, to rise again; collect
+淮	2293	river in Anhui province
+哎	2294	interjection of surprise
+屁	2295	break wind; fart; buttocks
+漆	2296	varnish, lacquer, paint
+淫	2297	obscene, licentious, lewd
+巢	2298	nest, living quarter in tree
+吩	2299	order, command, instruct
+撰	2300	compose, write, compile
+啸	2301	roar, howl, scream; whistle
+滞	2302	block up, obstruct; stagnant
+玫	2303	rose
+硕	2304	great, eminent; large, big
+钓	2305	fish; fishhook; tempt, lure
+蝶	2306	butterfly
+膝	2307	knee
+姚	2308	handsome, elegant; surname
+茂	2309	thick, lush, dense; talented
+躯	2310	body
+吏	2311	government official, magistrate
+猿	2312	ape
+寨	2313	stockade, stronghold, outpost; brothel
+恕	2314	forgive, excuse, show mercy
+渠	2315	ditch, canal, channel, gutter
+戚	2316	relative; be related to; sad
+辰	2317	early morning; 5th terrestrial branch
+舶	2318	large, ocean-going vessel
+颁	2319	confer, bestow; publish, promulgate
+惶	2320	fearful, afraid, anxious, nervous
+狐	2321	species of fox
+讽	2322	recite, incant; satirize
+笨	2323	foolish, stupid, dull; awkward
+袍	2324	long gown, robe, cloak
+嘲	2325	ridicule, deride, scorn, jeer at
+啡	2326	morphine; coffee
+泼	2327	pour, splash, water, sprinkle
+衔	2328	bit; hold in mouth, bite; gag
+倦	2329	be tired of, weary
+涵	2330	soak, wet; tolerate, be lenient
+雀	2331	sparrow
+旬	2332	ten-day period; period of time
+僵	2333	stiff and motionless, stock still
+撕	2334	rip, tear; buy cloth
+肢	2335	human limbs; animal feet
+垄	2336	grave, mound; ridge in field
+夷	2337	ancient barbarian tribes
+逸	2338	flee, escape, break loose
+茅	2339	reeds, rushes, grass; surname
+侨	2340	sojourn, lodge
+舆	2341	cart, palanquin, sedan chair
+窑	2342	kiln; coal mine pit
+涅	2343	blacken; black mud, slime; tatto
+蒲	2344	type of rush; vine
+谦	2345	humble, modest
+杭	2346	cross stream; navigate
+噢	2347	moan; interjection for pain, sad
+弊	2348	evil, wrong, bad; criminal
+勋	2349	meritorious deed; merits; rank
+刮	2350	shave, pare off, scrape
+郊	2351	suburbs; waste land, open spaces
+凄	2352	bitter cold, miserable, dreary
+捧	2353	hold up in two hands
+浸	2354	soak, immerse, dip, percolate
+砖	2355	tile, brick
+鼎	2356	large, three-legged bronze caldron
+篮	2357	basket
+蒸	2358	steam; evaporate
+饼	2359	rice-cakes, biscuits
+亩	2360	Chinese land measure; fields
+肾	2361	kidneys; testes, gizzard
+陡	2362	steep, sloping; abruptly, sudden
+爪	2363	claw, nail, talon; animal feet
+兔	2364	rabbit, hare
+殷	2365	many, great; abundant, flourishing
+贞	2366	virtuous, chaste, pure; loyal
+荐	2367	repeat, reoccur; recommend
+哑	2368	dumb, mute; become hoarse
+炭	2369	charcoal; coal; carbon
+坟	2370	grave, mound; bulge; bulging
+眨	2371	wink
+搏	2372	seize; spring upon; strike
+咳	2373	cough
+拢	2374	collect, bring together
+舅	2375	mother's brother, uncle
+昧	2376	obscure, dark; darken
+擅	2377	monopolize; claim; arbitrarily; to dare
+爽	2378	happy, cheerful; refreshing
+咖	2379	coffee; a phonetic
+搁	2380	place, put, lay down; delay
+禄	2381	blessing, happiness, prosperity
+雌	2382	female; feminine; gentle, soft
+哨	2383	whistle, blow whistle; chirp
+巩	2384	bind; firm, secure, strong
+绢	2385	kind of thick stiff silk
+螺	2386	spiral shell; conch; spiral
+裹	2387	wrap, bind; encircle, confine
+昔	2388	formerly; ancient; in beginning
+轩	2389	carriage; high; wide; balcony
+谬	2390	error, exaggeration; erroneous
+谍	2391	an intelligence report; to spy; spying
+龟	2392	turtle or tortoise; cuckold
+媳	2393	daughter-in-law
+姜	2394	surname; ginger
+瞎	2395	blind, reckless; rash
+冤	2396	grievance, injustice, wrong
+鸦	2397	crow; Corvus species (various)
+蓬	2398	type of raspberry; fairyland
+巷	2399	alley, lane
+琳	2400	beautiful jade, gem
+栽	2401	to cultivate, plant; to care for plants
+沾	2402	moisten, wet, soak; touch
+诈	2403	cheat, defraud, swindle; trick
+斋	2404	vegetarian diet; study
+瞒	2405	deceive, lie; eyes half-closed
+彪	2406	tiger; tiger stripes; tiger-like
+厄	2407	adversity, difficulty, distress
+咨	2408	inquire, consult, discuss; plan
+纺	2409	spin, reel, weave; reeled pongee
+罐	2410	jar, jug, pitcher, pot
+桶	2411	pail, bucket, tub; cask, keg
+壤	2412	soil, loam, earth; rich
+糕	2413	cakes, pastry
+颂	2414	laud, acclaim; hymn; ode
+膨	2415	to swell; swollen, bloated, inflated
+谐	2416	harmonize, agree; joke, jest
+垒	2417	rampart, military wall
+咕	2418	mumble, mutter, murmur; rumble
+隙	2419	crack, split, fissure; grudge
+辣	2420	peppery, pungent, hot; cruel
+绑	2421	bind, tie, fasten
+宠	2422	favorite, concubine; favor
+嘿	2423	be silent, be quiet
+兑	2424	cash; exchange
+霉	2425	mildew, mold; moldy, mildewed
+挫	2426	push down; chop down; grind
+稽	2427	examine, investigate; delay
+辐	2428	spokes of wheel
+乞	2429	beg; request
+纱	2430	gauze, thin silk; yarn, thread
+裙	2431	skirt, apron, petticoat
+嘻	2432	mirthful, happy; interjection
+哇	2433	vomit; cry of an infant
+绣	2434	embroider; embroidery; ornament
+杖	2435	cane, walking stick
+塘	2436	pond; tank; dike, embankment
+衍	2437	overflow, spill over, spread out
+轴	2438	axle, axletree; pivot; axis
+攀	2439	climb; pull; hang on to
+膊	2440	shoulders, upper arms
+譬	2441	metaphor, simile, example
+斌	2442	refined, having both appearance
+祈	2443	pray; entreat, beseech
+踢	2444	kick
+肆	2445	indulge; excess; numeral four; particle meaning now, therefore; shop
+坎	2446	pit, hole; snare, trap; crisis
+轿	2447	sedan-chair, palanquin
+棚	2448	tent, awning; booth; shed
+泣	2449	cry, sob, weep
+屡	2450	frequently, often, again and again
+躁	2451	tense, excited, irritable
+邱	2452	surname; hill; mound; grave
+凰	2453	female phoenix
+溢	2454	overflow, brim over; full
+椎	2455	hammer, mallet; vertebra
+砸	2456	smash, crush, break; pound, mash
+趟	2457	time, occasion; take journey
+帘	2458	flag-sign of a tavern
+帆	2459	sail; boat
+栖	2460	perch; roost; stay
+窜	2461	run away; revise, edit; expel
+丸	2462	small round object; pellet, pill
+斩	2463	cut, chop, sever; behead
+堤	2464	dike
+塌	2465	fall in ruins, collapse
+贩	2466	peddler, hawker, street merchant
+厢	2467	side-room, wing; theatre box
+掀	2468	lift, raise; stir
+喀	2469	vomit; used in transliterations
+乖	2470	rebel; crafty, shrewd
+谜	2471	riddle, conundrum; puzzle
+捏	2472	pick with fingers; knead; mold
+阎	2473	village gate; surname
+滨	2474	beach, sea coast; river bank
+虏	2475	to capture, imprison, seize; a prison
+匙	2476	spoon; surname
+芦	2477	rushes, reeds
+苹	2478	artemisia; duckweed; apple
+卸	2479	lay down; retire from office
+沼	2480	lake, fishpond, swamps
+钥	2481	key; lock
+株	2482	numerary adjunct for trees; root
+祷	2483	pray; entreat, beg, plead; prayer
+剖	2484	split in two, slice; dissect
+熙	2485	bright, splendid, glorious
+哗	2486	rushing sound; gush forward
+劈	2487	cut apart, split, chop
+怯	2488	lacking in courage, afraid
+棠	2489	crab apple tree; wild plums
+胳	2490	armpit, arms
+桩	2491	stake, post; affair, matter
+瑰	2492	extraordinary, fabulous; rose
+娱	2493	pleasure, enjoyment, amusement
+娶	2494	marry, take wife
+沫	2495	froth, foam, bubbles, suds
+嗓	2496	voice; throat
+蹲	2497	squat, crouch; idle about
+焚	2498	burn
+淘	2499	wash in sieve; weed out
+嫩	2500	soft, tender, delicate; young
+韵	2501	rhyme; vowel
+衬	2502	underwear; inner garments
+匈	2503	breast, chest, thorax; clamor; the Hsiung Nu 'Huns'
+钧	2504	unit of measure equivalent to thirty catties
+竖	2505	perpendicular, vertical; erect
+峻	2506	high, steep, towering; stern
+豹	2507	leopard, panther; surname
+捞	2508	scoop out of water; dredge, fish
+菊	2509	chrysanthemum
+鄙	2510	mean; low
+魄	2511	vigor; body; dark part of moon
+兜	2512	pouch
+哄	2513	coax; beguile, cheat, deceive
+颖	2514	rice tassel; sharp point; clever
+镑	2515	pound sterling
+屑	2516	bits, scraps, crumbs, fragments
+蚁	2517	ants
+壶	2518	jar, pot, jug, vase; surname
+怡	2519	harmony; pleasure, joy; be glad
+渗	2520	soak through, infiltrate
+秃	2521	bald
+迦	2522	character for transliteration
+旱	2523	drought; dry; dry land
+哟	2524	ah, final particle
+咸	2525	together; all, completely; united
+焉	2526	thereupon, then; how? why? where?
+谴	2527	reprimand, scold, abuse
+宛	2528	seem, as if, crooked
+稻	2529	rice growing in field, rice plant
+铸	2530	melt, cast; coin, mint
+锻	2531	forge metal; temper, refine
+伽	2532	transcription of sanskrit 'gha' in buddhist texts ('samgha', etc.); (nursing; attending; entertainer) (Jap.); tample; in Chinese this character is not used alone
+詹	2533	surname; talk too much, verbose
+毙	2534	kill; die violent death
+恍	2535	seemingly; absent-minded
+贬	2536	decrease, lower; censure, criticize
+烛	2537	candle, taper; shine, illuminate
+骇	2538	terrify, frighten, scare; shock
+芯	2539	pith from rush (juncus effusus)
+汁	2540	juice, liquor, fluid, sap, gravy, sauce
+桓	2541	variety of tree; surname
+坊	2542	neighborhood, urban subdivision; (J) priest's residence; (Buddhist) priest; boy
+驴	2543	donkey, ass
+朽	2544	decayed, rotten; rot, decay
+靖	2545	pacify; appease; calm, peaceful
+佣	2546	commission fee
+汝	2547	you
+碌	2548	rough, uneven, rocky; mediocre
+迄	2549	extend, reach; until; till
+冀	2550	hope for; wish; Hebei province
+荆	2551	thorns; brambles; my wife; cane
+崔	2552	high, lofty, towering; surname
+雁	2553	wild goose
+绅	2554	girdle; tie, bind; gentry
+珊	2555	coral
+榜	2556	placard; list of successful exam candidates
+诵	2557	recite, chant, repeat
+傍	2558	by side of, beside, near, close
+彦	2559	elegant
+醇	2560	rich, good as wine; pure, unmixed
+笛	2561	bamboo flute; whistle
+禽	2562	birds, fowl; surname;; capture
+勿	2563	must not, do not; without, never
+娟	2564	beautiful, graceful
+瞄	2565	take aim at; look at
+幢	2566	carriage curtain; sun screen
+寇	2567	bandits, thieves; enemy; invade
+睹	2568	look at, gaze at; observe
+贿	2569	bribe; bribes; riches, wealth
+踩	2570	step on
+霆	2571	a sudden peal of thunder
+呜	2572	sound of crying, sobbing
+拱	2573	fold hands on breast; bow, salute
+妃	2574	wife, spouse; imperial concubine
+蔑	2575	disdain, disregard; slight
+谕	2576	proclaim, instruct; edict
+缚	2577	to tie
+诡	2578	deceive, cheat, defraud; sly
+篷	2579	awning, covering; sail; boat
+淹	2580	drown; cover with liquid, steep
+腕	2581	wrist
+煮	2582	cook
+倩	2583	beautiful, lovely; son-in-law
+卒	2584	soldier; servant; at last, finally
+勘	2585	investigate; compare; collate
+馨	2586	fragrant, aromatic; distant fragrance
+逗	2587	tempt, allure, arouse, stir
+甸	2588	suburbs of capital; govern; crops
+贱	2589	mean, low; cheap, worthless
+炒	2590	fry, saute, roast, boil, cook
+灿	2591	vivid, illuminating; bright
+敞	2592	roomy, spacious, open, broad
+蜡	2593	wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to U+410D 䄍, meaning imperial harvest
+囚	2594	prisoner, convict; confine
+栗	2595	chestnut tree, chestnuts; surname
+辜	2596	crime, criminal offense
+垫	2597	advance money, pay for another
+妒	2598	jealous, envious
+魁	2599	chief; leader; best; monstrous
+谣	2600	sing; folksong, ballad; rumor
+寞	2601	silent, still, lonely, solitary
+蜀	2602	name of an ancient state
+甩	2603	throw away, discard
+涯	2604	shore, bank, water's edge
+枕	2605	pillow
+丐	2606	beggar; beg; give
+泳	2607	dive; swim
+奎	2608	stride of man; one of the twenty-eight lunar mansions
+泌	2609	to seep out, excrete
+逾	2610	go over, pass over, exceed
+叮	2611	exhort or enjoin repeatedly
+黛	2612	blacken eyebrows; black
+燥	2613	dry, parched, arid; quick-tempered
+掷	2614	throw, hurl, cast, fling
+藉	2615	mat, pad; rely on; pretext
+枢	2616	door hinge; pivot; center of power
+憎	2617	hate, detest, abhor; hatred
+鲸	2618	whale
+弘	2619	enlarge, expand; liberal, great
+倚	2620	rely on, depend on; lean heavily
+侮	2621	insult, ridicule, disgrace
+藩	2622	fence; boundary; outlying border
+拂	2623	shake off, brush away; dust
+鹤	2624	crane; Grus species (various)
+蚀	2625	nibble away; erode; eclipse
+浆	2626	any thick fluid; starch; broth
+芙	2627	hibiscus
+垃	2628	garbage, refuse, waste
+烤	2629	bake, roast, toast, cook
+晒	2630	dry in sun, expose to sun
+霜	2631	frost; crystallized; candied
+剿	2632	destroy, exterminate, annihilate
+蕴	2633	to collect, gather, store; profound
+圾	2634	garbage, rubbish; shaking; danger
+绸	2635	silk cloth, satin damask
+屿	2636	island
+氢	2637	ammonia; hydrogen nitride
+驼	2638	a camel; humpbacked; to carry on the back
+妆	2639	to adorn oneself, dress up, use make-up
+捆	2640	tie up; bind, truss up; bundle
+铅	2641	lead
+逛	2642	ramble, stroll, roam, wander
+淑	2643	good, pure, virtuous, charming
+榴	2644	pomegranate
+丙	2645	third; 3rd heavenly stem
+痒	2646	itch
+钞	2647	paper money, bank notes; copy
+蹄	2648	hoof; leg of pork; little witch
+犬	2649	dog; radical number 94
+躬	2650	body; personally, in person
+昼	2651	daytime, daylight
+藻	2652	splendid, magnificent; algae
+蛛	2653	spider
+褐	2654	coarse woolen cloth; dull, dark
+颊	2655	cheeks, jaw
+奠	2656	pay respect; settle
+募	2657	levy, raise; summon; recruit
+耽	2658	indulge in; be negligent
+蹈	2659	stamp feet; dance
+陋	2660	narrow; crude, coarse; ugly
+侣	2661	companion; associate with
+魅	2662	kind of forest demon, elf
+岚	2663	mountain mist, mountain haze
+侄	2664	nephew
+虐	2665	cruel, harsh, oppressive
+堕	2666	fall, sink, let fall; degenerate
+陛	2667	steps leading throne; throne
+莹	2668	luster of gems; bright, lustrous
+荫	2669	shade, shelter; protect
+狡	2670	cunning, deceitful, treacherous
+阀	2671	powerful and influential group
+绞	2672	twist, wring; intertwine; winch
+膏	2673	grease, fat; paste, ointment
+垮	2674	be defeated, fail, collapse
+茎	2675	stem, stalk
+缅	2676	distant, remote; think of
+喇	2677	horn, bugle; lama; final particle
+绒	2678	silk, cotton, or woolen fabric
+搅	2679	disturb, agitate, stir up
+凳	2680	bench; stool
+梭	2681	weaver's shuttle; go to and fro
+丫	2682	forked; bifurcation
+姬	2683	beauty; imperial concubine
+诏	2684	decree, proclaim; imperial decree
+钮	2685	button, knob; surname
+棺	2686	coffin
+耿	2687	bright, shining; have guts
+缔	2688	tie, join, connect; connection
+懈	2689	idle, relaxed, remiss
+嫉	2690	jealousy; be jealous of
+灶	2691	kitchen stove, cooking stove
+匀	2692	equal
+嗣	2693	to connect, inherit; descendants, heirs
+鸽	2694	pigeon, dove; Columba species (various)
+澡	2695	wash, bathe
+凿	2696	chisel; bore, pierce
+纬	2697	woof; parallels of latitude
+沸	2698	boil, bubble up, gush
+畴	2699	farmland, arable land; category
+刃	2700	edged tool, cutlery, knife edge
+遏	2701	stop, suppress, curb, check; a bar
+烁	2702	shine, glitter, sparkle
+嗅	2703	smell, scent, sniff; olfactive
+叭	2704	trumpet
+熬	2705	cook down, to boil; endure
+瞥	2706	take fleeting glance at
+骸	2707	skeleton, body; leg bone
+奢	2708	extravagant, wasteful; exaggerate
+拙	2709	stupid, clumsy, crude; convention
+栋	2710	main beams supporting house
+毯	2711	rug, carpet, blanket
+桐	2712	name applied various trees
+砂	2713	sand; pebbles, gravel; gritty
+莽	2714	thicket, underbrush; poisonous
+泻	2715	drain off, leak; flow, pour down
+坪	2716	level ground; Japanese measure
+梳	2717	comb; brush
+杉	2718	various species of pine and fir
+晤	2719	have interview with; meet
+稚	2720	young, immature; childhood
+蔬	2721	vegetables, greens
+蝇	2722	flies
+捣	2723	hull; thresh; beat, attack
+顷	2724	a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean
+麽	2725	interrogative final particle; insignificant, small, tiny
+尴	2726	embarrassed; ill at ease
+镖	2727	dart, spear, harpoon; escort
+诧	2728	be surprised, be shocked
+尬	2729	limp, staggering gait; embarrass
+硫	2730	sulfur
+嚼	2731	prattle, be glib
+羡	2732	envy, admire; praise; covet
+沦	2733	be lost; sink, be submerged
+沪	2734	Shanghai; river near Shanghai
+旷	2735	extensive, wide, broad; empty
+彬	2736	cultivated, well-bred
+芽	2737	bud, sprout, shoot
+狸	2738	fox
+冥	2739	dark, gloomy, night; deep
+碳	2740	carbon
+咧	2741	stretch mouth, grimace, grin
+惕	2742	be cautious, careful, alert
+暑	2743	hot
+咯	2744	final particle
+萝	2745	type of creeping plant; turnip
+汹	2746	turbulent; noisy, restless
+腥	2747	raw meat; rank, strong-smelling
+窥	2748	peep, watch, spy on, pry
+俺	2749	personal pronoun, I
+潭	2750	deep pool, lake; deep, profound
+崎	2751	rough, uneven, jagged, rugged
+麟	2752	female of Chinese unicorn
+捡	2753	to pick up
+拯	2754	help, save, aid; lift, raise
+厥	2755	personal pronoun he, she, it
+澄	2756	purify water by allowing sediment to settle; clear, pure
+萎	2757	wither, wilt
+哉	2758	final exclamatory particle
+涡	2759	swirl, whirlpool, eddy
+滔	2760	overflow; rushing water, a torrent
+暇	2761	leisure, relaxation, spare time
+溯	2762	go upstream, go against current; formerly
+鳞	2763	fish scales
+酿	2764	brew, ferment
+茵	2765	a cushion, mattress; wormwood; Skimmia japon
+愕	2766	startled, alarmed, astonished
+瞅	2767	see, look, gaze at
+暮	2768	evening, dusk, sunset; ending
+衙	2769	public office; official residence
+诫	2770	warn, admonish; warning
+斧	2771	axe, hatchet; chop, hew
+兮	2772	exclamatory particle
+焕	2773	shining
+棕	2774	hemp palm; palm tree
+佑	2775	help, protect, bless
+嘶	2776	neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough
+妓	2777	prostitute
+喧	2778	lively, noisy; clamor, talk loudly
+蓉	2779	hibiscus; Chengdu, Sichuan
+删	2780	to cut; delete
+樱	2781	cherry, cherry blossom
+伺	2782	serve, wait upon, attend; examine
+嗡	2783	sound of flying bees, airplanes
+娥	2784	be beautiful; good; surname
+梢	2785	pointed tip of something long like a branch; rudder
+坝	2786	embankment; dam
+蚕	2787	silkworms
+敷	2788	spread, diffuse; apply, paint
+澜	2789	overflowing; waves, ripples
+杏	2790	apricot; almond
+绥	2791	soothe, appease, pacify
+冶	2792	smelt, fuse metals; cast, found
+庇	2793	cover, shield, shelter, protect
+挠	2794	scratch; disturb, bother; submit
+搂	2795	hug, embrace; drag, pull
+倏	2796	hastily, suddenly, abruptly
+聂	2797	whisper; surname
+婉	2798	amiable, congenial; restrained
+噪	2799	be noisy; chirp loudly
+稼	2800	sow grain; sheaves of grain
+鳍	2801	fin
+菱	2802	water-chestnut, water caltrop
+盏	2803	small cup or container
+匿	2804	hide; go into hiding
+吱	2805	chirping, squeaking, hissing
+寝	2806	sleep, rest; bed chamber
+揽	2807	grasp, take hold of; monopolize
+髓	2808	bone marrow; essences, substances
+秉	2809	grasp, hold; bundle; authority
+哺	2810	chew food; feed
+矢	2811	arrow, dart; vow, swear
+啪	2812	syllable
+帜	2813	flag, pennant; sign; fasten
+邵	2814	surname; various place names
+嗽	2815	cough, gargle, clear throat
+挟	2816	clasp under arm; hold to bosom
+缸	2817	earthen jug, crock, cistern
+揉	2818	rub, massage; crush by hand
+腻	2819	greasy, oily, dirty; smooth
+驯	2820	tame, docile, obedient
+缆	2821	hawser, heavy-duty rope, cable
+晌	2822	noon, midday; moment; unit land measurement equal to seven mou (U+755D 畝), or the area that can be sown in one day
+瘫	2823	paralysis, palsy, numbness
+贮	2824	store, stockpile, hoard
+觅	2825	seek; search
+朦	2826	condition or appearance of moon
+僻	2827	out-of-the-way, remote; unorthodox
+隋	2828	Sui dynasty; surname
+蔓	2829	creeping plants, tendrils, vines
+咋	2830	question-forming particle, why? how? what?; to bite; loud
+嵌	2831	inlay, set in; fall into; rugged
+虔	2832	act with reverence; reverent
+畔	2833	boundary path dividing fields
+琐	2834	trifling, petty; troublesome
+碟	2835	small dish, plate
+涩	2836	astringent; harsh; uneven, rough
+胧	2837	condition or appearance of moon
+嘟	2838	sound of horn tooting
+蹦	2839	hop, leap, jump; bright
+冢	2840	burial mound, mausoleum; grand
+浏	2841	clear; bright; whistling
+裔	2842	progeny, descendants, posterity
+襟	2843	lapel, collar
+叨	2844	talkative; quarrelous
+诀	2845	take leave of, bid farewell
+旭	2846	rising sun; brilliance; radiant
+虾	2847	shrimp, prawn
+簿	2848	register, account book, notebook
+啤	2849	beer
+擒	2850	catch, capture, seize, arrest
+枣	2851	date tree; dates, jujubes; surname
+嘎	2852	sound of laughter; bad, malevolent
+苑	2853	pasture, park, garden; mansion
+牟	2854	make; seek, get; barley; low
+呕	2855	vomit; annoy, enrage
+骆	2856	a white horse with black mane; a camel
+凸	2857	protrude, bulge out, convex
+熄	2858	put out, extinguish, quash
+兀	2859	to cut off the feet
+喔	2860	descriptive of crying or of crowing
+裳	2861	clothes; skirt; beautiful
+凹	2862	concave, hollow, depressed; a pass, valley
+赎	2863	buy, redeem; ransome; atone for
+屯	2864	village, hamlet; camp; station
+膛	2865	chest; hollow space, cavity
+浇	2866	spray, water, sprinkle
+灼	2867	burn; broil; cauterize; bright
+裘	2868	fur garments; surname
+砰	2869	sound of crashing stones, bang!
+棘	2870	jujube tree; thorns, brambles
+橡	2871	chestnut oak; rubber tree; rubber
+碱	2872	alkaline, alkali, lye, salt
+聋	2873	deaf
+姥	2874	maternal grandmother; midwife
+瑜	2875	flawless gem or jewel
+毋	2876	do not; not; surname; rad. 80
+娅	2877	mutual term of address used by sons-in-law; a brother-in-law
+沮	2878	stop, prevent; defeated, dejected
+萌	2879	bud, sprout
+俏	2880	like, similar; resemble; pretty
+黯	2881	dark, black; sullen, dreary
+撇	2882	discard, abandon, throw away
+粟	2883	unhusked millet; grain
+粪	2884	manure, dung, shit, excrement, night soil
+尹	2885	govern; oversee; director
+苟	2886	careless, frivolous; illicit; grammatical particle: if, but, if only; surname; grass name; distinguish DKW 30853 (ji4)
+癫	2887	crazy, mad; madness, mania, insan
+蚂	2888	ant; leech
+禹	2889	legendary hsia dynasty founder
+廖	2890	surname; name of an ancient state
+俭	2891	temperate, frugal, economical
+帖	2892	invitation card; notice
+煎	2893	fry in fat or oil; boil in water
+缕	2894	thread; detailed, precise
+窦	2895	surname; hole, burrow; corrupt
+簇	2896	swarm, crowd together, cluster
+棱	2897	squared timber; angle, edge
+叩	2898	knock, ask; kowtow, bow
+呐	2899	raise voice, yell out loud, shout; stammer
+瑶	2900	precious jade
+墅	2901	villa, country house
+莺	2902	oriole, green finch; Sylvia species (various)
+烫	2903	scald, heat; wash; iron clothes
+蛙	2904	frog
+歹	2905	bad, vicious, depraved, wicked
+伶	2906	lonely, solitary; actor
+葱	2907	scallions, leeks, green onions
+哮	2908	cough; pant; roar
+眩	2909	to confuse; dizzy, dazed, disoriented
+坤	2910	earth; feminine, female
+廓	2911	broad, wide, open, empty; to expand
+讳	2912	conceal; shun; regard as taboo
+啼	2913	weep, whimper; howl, twitter
+乍	2914	first time, for the first time
+瓣	2915	petal; segment; valves
+矫	2916	correct, rectify, straighten out
+跋	2917	go by foot; epilogue, colophon
+枉	2918	useless, in vain; bent, crooked
+梗	2919	stem of flower, branch of plant
+厕	2920	mingle with; toilet, lavatory
+琢	2921	polish jade; cut jade
+讥	2922	ridicule, jeer, mock; inspect
+釉	2923	glaze
+窟	2924	hole, cave; cellar; underground
+敛	2925	draw back, fold back; collect
+轼	2926	horizontal wooden bar in front
+庐	2927	hut, cottage; name of a mountain
+胚	2928	embryo; unfinished things
+呻	2929	groan, moan; recite with intonation
+绰	2930	graceful, delicate; spacious
+扼	2931	grasp, clutch; choke, strangle
+懿	2932	virtuous, admirable, esteemed
+炯	2933	bright, brilliant, clear; hot
+竿	2934	bamboo pole; penis
+慷	2935	ardent; generous, magnanimous
+虞	2936	concerned about, anxious, worried
+锤	2937	balance weight on scale; hammer
+栓	2938	wooden peg, post or stick
+桨	2939	oar, paddle
+蚊	2940	mosquito; gnat
+磅	2941	pound; weigh
+孽	2942	evil; son of concubine; ghost
+惭	2943	ashamed, humiliated; shameful
+戳	2944	prick, stab; stamp, seal, chop
+禀	2945	report to, petition
+鄂	2946	Hubei province; startled
+馈	2947	offer food superior; send gift
+垣	2948	low wall
+溅	2949	sprinkle, spray; spill, splash
+咚	2950	onomatopoetic, a thumping sound
+钙	2951	calcium
+礁	2952	reef; jetty; submerged rocks
+彰	2953	clear, manifest, obvious
+豁	2954	open up, clear; exempt
+眯	2955	be blinded
+磷	2956	phosphorus; water rushing between
+雯	2957	cloud patterns, coloring of cloud
+墟	2958	high mound; hilly countryside; wasteland
+迂	2959	doctrinaire, abstruse, unrealistic
+瞻	2960	look; look out for; respect
+颅	2961	skull
+琉	2962	sparkling stone; glazed, opaque
+悼	2963	grieve, mourn, lament; grieved
+蝴	2964	butterfly
+拣	2965	choose; select; pick up; gather
+渺	2966	endlessly long, boundless, vast
+眷	2967	take interest in, care for
+悯	2968	pity, sympathize with, grieve for
+汰	2969	excessive; scour, wash out
+慑	2970	afraid, scared, fearful
+婶	2971	wife of father's younger brother
+斐	2972	graceful, elegant, beautiful
+嘘	2973	exhale; blow out; deep sigh; hiss; praise
+镶	2974	insert, inlay, set, mount; fill
+炕	2975	the brick-bed in northern China
+宦	2976	officialdom, government official
+趴	2977	lying prone, leaning over
+绷	2978	bind, draw firmly, strap
+窘	2979	embarrassed; hard-pressed
+襄	2980	aid, help, assist; undress
+珀	2981	amber
+嚣	2982	be noisy; treat with contempt
+拚	2983	risk, disregard; go all out for
+酌	2984	serve wine; feast; deliberate
+浊	2985	muddy, turbid, dirty, filthy
+毓	2986	give birth to; bring up, educate
+撼	2987	move, shake; (Cant.) to fight
+嗜	2988	be fond of, have weakness for
+扛	2989	carry on shoulders; lift
+峭	2990	steep, precipitous, rugged
+磕	2991	hit; collide, knock into; sound
+翘	2992	turn up, lift, elevate, raise
+槽	2993	trough; manger; vat, tank; groove; a distillery
+淌	2994	trickle; flow down; drip
+栅	2995	fence; palisade; grid
+颓	2996	ruined, decayed; disintegrate
+熏	2997	smoke, fog, vapor; smoke, cure
+瑛	2998	luster of gem; crystal
+颐	2999	cheeks; jaw; chin; rear; to nourish
+忖	3000	guess, suppose, conjecture

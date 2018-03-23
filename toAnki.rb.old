@@ -1,0 +1,62 @@
+require 'anki'
+require 'base64'
+require 'open3'
+require 'json'
+
+def system_quietly(*cmd)
+    # --> require 'open3'
+    exit_status = nil
+    err = nil
+    out = nil
+    Open3.popen3(*cmd) do |stdin, stdout, stderr, wait_thread|
+        err = stderr.gets(nil)
+        out = stdout.gets(nil)
+        [stdin, stdout, stderr].each{|stream| stream.send('close')}
+        exit_status = wait_thread.value
+    end
+    exit_status == 0 ? exit_status = true : exit_status = false
+    out ? out.chomp! : out = nil
+    return exit_status, out
+end
+
+hanzi = []
+(1..799).each do |i|
+    File.open("chinese/quo/chinese#{i}.txt").each_char do |c|
+        if c =~ /\p{Han}/
+            if not hanzi.include? c
+                hanzi << c
+            end
+        end
+    end
+end
+
+cards = []
+hanzi.each do |han|
+    status, output = system_quietly "grep #{han} tudien.txt"
+    if status
+        entry = Base64.strict_decode64(output[1..-1]).force_encoding('UTF-8').encode.gsub!(/\n/, " ")
+
+
+        out = ""
+        (1..799).each do |i|
+           stat, w = system_quietly "/usr/bin/grep -m 1 #{han} chinese/quo/chinese#{i}.txt"
+           out += "#{w}\n" if stat
+        end
+        out.gsub! "\u3000", ""
+        out.gsub! "#{han}", "<span style='color: red;'>#{han}</span>"
+        example = out.split("\n")
+        example.delete_if { |x| x.count("。") > 1 } if example.size > 1
+        example = example[0..2] if example.size > 3
+        example[0] = "No Example Available" if example.empty?
+        example.map! {|e| "#{example.index(e) + 1}. #{e}"}
+        out = example.join("<br>")
+        item = {"front" => han, "back" => entry, "example" => out}
+        cards << item
+    end
+    puts "Done for #{han}"
+end
+
+headers = [ "front", "back", "example" ]
+
+deck = Anki::Deck.new(card_headers: headers, card_data: cards, field_separator: "|")
+deck.generate_deck(file: "Anki_DaiDuongSongLong.txt")
