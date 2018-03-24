@@ -60,4 +60,4 @@ output.gsub! "TITLEWILLBEHERE", "Dai Duong Song Long #{chuong}"
 # output.gsub! "FONTBASE64WILLBEHERE", fontbase64
 output.gsub! "CHAPTERNUMBER", chuong
 output.gsub! "CONTENTWILLBEHERE", result
-File.open("/home/BitTorrent Sync/time4vps.html/sldd/sldd#{chuong}.html", "w") {|f| f.write output}
+File.open("../time4vps.html/sldd/sldd#{chuong}.html", "w") {|f| f.write output}
