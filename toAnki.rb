@@ -21,13 +21,13 @@ def getExamples(han)
     out = ""
     (1..799).each do |i|
        stat, w = system_quietly "/usr/bin/grep #{han} chinese/quo/chinese#{i}.txt"
-       out += "#{w}AAA" if stat
+       out += "#{w}Π" if stat
     end
-    out.gsub!(/\s/, "AAA")
+    out.gsub!(/\s/, "Π")
     out.gsub! "\u3000", ""
-    examples = out.split("AAA")
+    examples = out.split("Π")
     if examples.length > 10
-        examples.delete_if { |x| x.length > 70 }
+        examples.delete_if { |x| x.length > 60 }
         examples.delete_if { |x| x.length < 40 }
     end
     if examples.length > 10
@@ -39,7 +39,7 @@ def getExamples(han)
         example[0] = "No Example Available"
         puts "No Example Available for #{han}"
     end
-    out = example.join("AAA").gsub("#{han}", "<span class=hanzi>#{han}</span>")
+    out = example.join("Π").gsub("#{han}", "<span class=hanzi>#{han}</span>")
     puts "Done for #{han}"
     return out
 end
